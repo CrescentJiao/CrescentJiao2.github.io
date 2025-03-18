@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Fanjie Li
+title: Xinyue Jiao
 
 # Username (this should match the folder name)
 authors:
