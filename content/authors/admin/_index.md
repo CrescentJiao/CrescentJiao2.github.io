@@ -21,24 +21,21 @@ organizations:
 bio: Designer / explorer / educational data scientist
 
 interests:
+- VR/AR in education
 - Learning Analytics
-- Ecudational Data Science
-- Human-Centered Informatics
-- Design Thinking
-- Affective Computing
+- Learning sciences
+- Collaborative learning
 
 
 education:
   courses:
   - course: PhD
     institution: New York University
-    year: 2022 - 2027
+    year: 2024 - Present
   - course: M.Sc
-    institution: University of Hong Kong
-    year: 2018 - 2020
-  - course: B.Mgt | B.Eng 
-    institution: Sichuan University
-    year: 2014 - 2018
+    institution: Beijing Normal University
+    year: 2020 - 2023
+ 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
