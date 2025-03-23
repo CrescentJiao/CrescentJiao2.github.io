@@ -129,3 +129,6 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
   [security.http]
     methods = ['(?i)GET|POST']
     urls = ['.*']
+[services]
+  [services.googleAnalytics]
+    id = ""
