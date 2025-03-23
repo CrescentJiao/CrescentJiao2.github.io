@@ -44,18 +44,7 @@ url_video: ""
 slides: example
 
 gallery_item:
-- album: gallery
-  image: moody_search.png
-  caption: Music Filtering
-- album: gallery
-  image: moody_playlist.png
-  caption: Favourite Music
-- album: gallery
-  image: tag_cloud.png
-  caption: Genre Cloud
-- album: gallery
-  image: mosaic_plots.png
-  caption: Mosaic Plot
+- 
 ---
 
 <!-- {{% callout note %}}
