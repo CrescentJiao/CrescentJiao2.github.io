@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>LIU Zifeng | Xinyue Jiao</title>
-    <link>http://localhost:1313/authors/liu-zifeng/</link>
-      <atom:link href="http://localhost:1313/authors/liu-zifeng/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/authors/liu-zifeng/</link>
+      <atom:link href="https://example.com/authors/liu-zifeng/index.xml" rel="self" type="application/rss+xml" />
     <description>LIU Zifeng</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>https://example.com/media/icon_hu_7613a4a452ac7087.png</url>
       <title>LIU Zifeng</title>
-      <link>http://localhost:1313/authors/liu-zifeng/</link>
+      <link>https://example.com/authors/liu-zifeng/</link>
     </image>
     
     <item>
       <title>The Influence of Augmented Reality Embedding Cognitive Scaffolds on Elementary Students’ Scientific Learning</title>
-      <link>http://localhost:1313/publication/xinyue-2020-influence/</link>
+      <link>https://example.com/publication/xinyue-2020-influence/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/xinyue-2020-influence/</guid>
+      <guid>https://example.com/publication/xinyue-2020-influence/</guid>
       <description></description>
     </item>
     

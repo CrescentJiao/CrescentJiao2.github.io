@@ -2,125 +2,125 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Xinyue Jiao</title>
-    <link>http://localhost:1313/authors/xinyue-jiao/</link>
-      <atom:link href="http://localhost:1313/authors/xinyue-jiao/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/authors/xinyue-jiao/</link>
+      <atom:link href="https://example.com/authors/xinyue-jiao/index.xml" rel="self" type="application/rss+xml" />
     <description>Xinyue Jiao</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>https://example.com/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Xinyue Jiao</title>
-      <link>http://localhost:1313/authors/xinyue-jiao/</link>
+      <link>https://example.com/authors/xinyue-jiao/</link>
     </image>
     
     <item>
       <title>Detecting AI-Generated Pseudocode in High School Online Programming Courses Using an Explainable Approach</title>
-      <link>http://localhost:1313/publication/liu-2025-detecting/</link>
+      <link>https://example.com/publication/liu-2025-detecting/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/liu-2025-detecting/</guid>
+      <guid>https://example.com/publication/liu-2025-detecting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>What are the differences between student and ChatGPT-generated pseudocode? Detecting AI-generated pseudocode in high school programming using explainable machine learning</title>
-      <link>http://localhost:1313/publication/liu-2025-differences/</link>
+      <link>https://example.com/publication/liu-2025-differences/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/liu-2025-differences/</guid>
+      <guid>https://example.com/publication/liu-2025-differences/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Enhancing AR-based learning environments for STEM education: A design-based study on design features, kinematics learning and mathematics self-efficacy</title>
-      <link>http://localhost:1313/publication/li-2024-enhancing/</link>
+      <link>https://example.com/publication/li-2024-enhancing/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/li-2024-enhancing/</guid>
+      <guid>https://example.com/publication/li-2024-enhancing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fair Prediction of Students&#39; Summative Performance Changes Using Online Learning Behavior Data</title>
-      <link>http://localhost:1313/publication/liu-2024-fair/</link>
+      <link>https://example.com/publication/liu-2024-fair/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/liu-2024-fair/</guid>
+      <guid>https://example.com/publication/liu-2024-fair/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How ai assisted k-12 computer science education: A systematic review</title>
-      <link>http://localhost:1313/publication/liu-2024-ai/</link>
+      <link>https://example.com/publication/liu-2024-ai/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/liu-2024-ai/</guid>
+      <guid>https://example.com/publication/liu-2024-ai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Conceptions of learning science among elementary school students in AR learning environment: A case study of “The Magic Sound”</title>
-      <link>http://localhost:1313/publication/cai-2022-conceptions/</link>
+      <link>https://example.com/publication/cai-2022-conceptions/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/cai-2022-conceptions/</guid>
+      <guid>https://example.com/publication/cai-2022-conceptions/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exploring the argumentation characteristics in SSI video discussion area of online video learning website</title>
-      <link>http://localhost:1313/publication/jiao-2022-exploring/</link>
+      <link>https://example.com/publication/jiao-2022-exploring/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/jiao-2022-exploring/</guid>
+      <guid>https://example.com/publication/jiao-2022-exploring/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Open another door to education—applications, challenges and perspectives of the educational Metaverse</title>
-      <link>http://localhost:1313/publication/cai-2022-open/</link>
+      <link>https://example.com/publication/cai-2022-open/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/cai-2022-open/</guid>
+      <guid>https://example.com/publication/cai-2022-open/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Effect of Role Assignment on Students’ Collaborative Inquiry-based Learning in Augmented Reality Environment</title>
-      <link>http://localhost:1313/publication/jiao-2022-effect/</link>
+      <link>https://example.com/publication/jiao-2022-effect/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/jiao-2022-effect/</guid>
+      <guid>https://example.com/publication/jiao-2022-effect/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Effects of AR Learning Environment to Preschool Children’s Numerical Cognition</title>
-      <link>http://localhost:1313/publication/feng-2022-effects/</link>
+      <link>https://example.com/publication/feng-2022-effects/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/feng-2022-effects/</guid>
+      <guid>https://example.com/publication/feng-2022-effects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using augmented reality to enhance students’ representational fluency: The case of linear functions</title>
-      <link>http://localhost:1313/publication/li-2022-using/</link>
+      <link>https://example.com/publication/li-2022-using/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/li-2022-using/</guid>
+      <guid>https://example.com/publication/li-2022-using/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AR learning environment integrated with EIA inquiry model: Enhancing scientific literacy and reducing cognitive load of students</title>
-      <link>http://localhost:1313/publication/yang-2021-ar/</link>
+      <link>https://example.com/publication/yang-2021-ar/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/yang-2021-ar/</guid>
+      <guid>https://example.com/publication/yang-2021-ar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How Different Cognitive Style Groups Affect Learners’ Knowledge Construction in Collaborative Argumentation</title>
-      <link>http://localhost:1313/publication/jiao-2021-different/</link>
+      <link>https://example.com/publication/jiao-2021-different/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/jiao-2021-different/</guid>
+      <guid>https://example.com/publication/jiao-2021-different/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Influence of Argumentation Strategy on Student&#39;s Web-Based Argumentation in Different Scientific Concepts</title>
-      <link>http://localhost:1313/publication/jiao-2019-influence/</link>
+      <link>https://example.com/publication/jiao-2019-influence/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/jiao-2019-influence/</guid>
+      <guid>https://example.com/publication/jiao-2019-influence/</guid>
       <description></description>
     </item>
     

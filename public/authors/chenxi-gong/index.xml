@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chenxi Gong | Xinyue Jiao</title>
-    <link>http://localhost:1313/authors/chenxi-gong/</link>
-      <atom:link href="http://localhost:1313/authors/chenxi-gong/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/authors/chenxi-gong/</link>
+      <atom:link href="https://example.com/authors/chenxi-gong/index.xml" rel="self" type="application/rss+xml" />
     <description>Chenxi Gong</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>https://example.com/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Chenxi Gong</title>
-      <link>http://localhost:1313/authors/chenxi-gong/</link>
+      <link>https://example.com/authors/chenxi-gong/</link>
     </image>
     
     <item>
       <title>The Effects of AR Learning Environment to Preschool Children’s Numerical Cognition</title>
-      <link>http://localhost:1313/publication/feng-2022-effects/</link>
+      <link>https://example.com/publication/feng-2022-effects/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/feng-2022-effects/</guid>
+      <guid>https://example.com/publication/feng-2022-effects/</guid>
       <description></description>
     </item>
     

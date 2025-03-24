@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Haitao Zhou | Xinyue Jiao</title>
-    <link>http://localhost:1313/authors/haitao-zhou/</link>
-      <atom:link href="http://localhost:1313/authors/haitao-zhou/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/authors/haitao-zhou/</link>
+      <atom:link href="https://example.com/authors/haitao-zhou/index.xml" rel="self" type="application/rss+xml" />
     <description>Haitao Zhou</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>https://example.com/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Haitao Zhou</title>
-      <link>http://localhost:1313/authors/haitao-zhou/</link>
+      <link>https://example.com/authors/haitao-zhou/</link>
     </image>
     
     <item>
       <title>Conceptions of learning science among elementary school students in AR learning environment: A case study of “The Magic Sound”</title>
-      <link>http://localhost:1313/publication/cai-2022-conceptions/</link>
+      <link>https://example.com/publication/cai-2022-conceptions/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/cai-2022-conceptions/</guid>
+      <guid>https://example.com/publication/cai-2022-conceptions/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Effect of Role Assignment on Students’ Collaborative Inquiry-based Learning in Augmented Reality Environment</title>
-      <link>http://localhost:1313/publication/jiao-2022-effect/</link>
+      <link>https://example.com/publication/jiao-2022-effect/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/jiao-2022-effect/</guid>
+      <guid>https://example.com/publication/jiao-2022-effect/</guid>
       <description></description>
     </item>
     

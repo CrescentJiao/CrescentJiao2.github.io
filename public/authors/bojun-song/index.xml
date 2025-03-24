@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bojun Song | Xinyue Jiao</title>
-    <link>http://localhost:1313/authors/bojun-song/</link>
-      <atom:link href="http://localhost:1313/authors/bojun-song/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/authors/bojun-song/</link>
+      <atom:link href="https://example.com/authors/bojun-song/index.xml" rel="self" type="application/rss+xml" />
     <description>Bojun Song</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>https://example.com/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Bojun Song</title>
-      <link>http://localhost:1313/authors/bojun-song/</link>
+      <link>https://example.com/authors/bojun-song/</link>
     </image>
     
     <item>
       <title>Open another door to education—applications, challenges and perspectives of the educational Metaverse</title>
-      <link>http://localhost:1313/publication/cai-2022-open/</link>
+      <link>https://example.com/publication/cai-2022-open/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/cai-2022-open/</guid>
+      <guid>https://example.com/publication/cai-2022-open/</guid>
       <description></description>
     </item>
     

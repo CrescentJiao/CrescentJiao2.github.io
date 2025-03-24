@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wanli Xing | Xinyue Jiao</title>
-    <link>http://localhost:1313/authors/wanli-xing/</link>
-      <atom:link href="http://localhost:1313/authors/wanli-xing/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/authors/wanli-xing/</link>
+      <atom:link href="https://example.com/authors/wanli-xing/index.xml" rel="self" type="application/rss+xml" />
     <description>Wanli Xing</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>https://example.com/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Wanli Xing</title>
-      <link>http://localhost:1313/authors/wanli-xing/</link>
+      <link>https://example.com/authors/wanli-xing/</link>
     </image>
     
     <item>
       <title>Detecting AI-Generated Pseudocode in High School Online Programming Courses Using an Explainable Approach</title>
-      <link>http://localhost:1313/publication/liu-2025-detecting/</link>
+      <link>https://example.com/publication/liu-2025-detecting/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/liu-2025-detecting/</guid>
+      <guid>https://example.com/publication/liu-2025-detecting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>What are the differences between student and ChatGPT-generated pseudocode? Detecting AI-generated pseudocode in high school programming using explainable machine learning</title>
-      <link>http://localhost:1313/publication/liu-2025-differences/</link>
+      <link>https://example.com/publication/liu-2025-differences/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/liu-2025-differences/</guid>
+      <guid>https://example.com/publication/liu-2025-differences/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fair Prediction of Students&#39; Summative Performance Changes Using Online Learning Behavior Data</title>
-      <link>http://localhost:1313/publication/liu-2024-fair/</link>
+      <link>https://example.com/publication/liu-2024-fair/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/liu-2024-fair/</guid>
+      <guid>https://example.com/publication/liu-2024-fair/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How ai assisted k-12 computer science education: A systematic review</title>
-      <link>http://localhost:1313/publication/liu-2024-ai/</link>
+      <link>https://example.com/publication/liu-2024-ai/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/liu-2024-ai/</guid>
+      <guid>https://example.com/publication/liu-2024-ai/</guid>
       <description></description>
     </item>
     

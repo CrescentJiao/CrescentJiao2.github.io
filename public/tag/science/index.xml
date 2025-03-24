@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Science | Xinyue Jiao</title>
-    <link>http://localhost:1313/tag/science/</link>
-      <atom:link href="http://localhost:1313/tag/science/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/tag/science/</link>
+      <atom:link href="https://example.com/tag/science/index.xml" rel="self" type="application/rss+xml" />
     <description>Science</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 15 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>https://example.com/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Science</title>
-      <link>http://localhost:1313/tag/science/</link>
+      <link>https://example.com/tag/science/</link>
     </image>
     
     <item>
       <title>🚥The three primary colors of light&lt;</title>
-      <link>http://localhost:1313/myapps/light1/</link>
+      <link>https://example.com/myapps/light1/</link>
       <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/myapps/light1/</guid>
+      <guid>https://example.com/myapps/light1/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -33,9 +33,9 @@ Adopted by one elementary schools in China&lt;/p&gt;
     
     <item>
       <title>🕎 Dispersion of Light</title>
-      <link>http://localhost:1313/myapps/light2/</link>
+      <link>https://example.com/myapps/light2/</link>
       <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/myapps/light2/</guid>
+      <guid>https://example.com/myapps/light2/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -52,9 +52,9 @@ Adopted by one elementary schools in China&lt;/p&gt;
     
     <item>
       <title>🧪 Diverse electrolytes</title>
-      <link>http://localhost:1313/myapps/dianjiezhi/</link>
+      <link>https://example.com/myapps/dianjiezhi/</link>
       <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/myapps/dianjiezhi/</guid>
+      <guid>https://example.com/myapps/dianjiezhi/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;

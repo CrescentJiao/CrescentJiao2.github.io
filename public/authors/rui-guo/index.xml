@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rui Guo | Xinyue Jiao</title>
-    <link>http://localhost:1313/authors/rui-guo/</link>
-      <atom:link href="http://localhost:1313/authors/rui-guo/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/authors/rui-guo/</link>
+      <atom:link href="https://example.com/authors/rui-guo/index.xml" rel="self" type="application/rss+xml" />
     <description>Rui Guo</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>https://example.com/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Rui Guo</title>
-      <link>http://localhost:1313/authors/rui-guo/</link>
+      <link>https://example.com/authors/rui-guo/</link>
     </image>
     
     <item>
       <title>How ai assisted k-12 computer science education: A systematic review</title>
-      <link>http://localhost:1313/publication/liu-2024-ai/</link>
+      <link>https://example.com/publication/liu-2024-ai/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/liu-2024-ai/</guid>
+      <guid>https://example.com/publication/liu-2024-ai/</guid>
       <description></description>
     </item>
     

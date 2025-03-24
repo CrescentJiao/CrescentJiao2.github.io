@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Changqiu Yi | Xinyue Jiao</title>
-    <link>http://localhost:1313/authors/changqiu-yi/</link>
-      <atom:link href="http://localhost:1313/authors/changqiu-yi/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/authors/changqiu-yi/</link>
+      <atom:link href="https://example.com/authors/changqiu-yi/index.xml" rel="self" type="application/rss+xml" />
     <description>Changqiu Yi</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>https://example.com/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Changqiu Yi</title>
-      <link>http://localhost:1313/authors/changqiu-yi/</link>
+      <link>https://example.com/authors/changqiu-yi/</link>
     </image>
     
     <item>
       <title>How Different Cognitive Style Groups Affect Learners’ Knowledge Construction in Collaborative Argumentation</title>
-      <link>http://localhost:1313/publication/jiao-2021-different/</link>
+      <link>https://example.com/publication/jiao-2021-different/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/jiao-2021-different/</guid>
+      <guid>https://example.com/publication/jiao-2021-different/</guid>
       <description></description>
     </item>
     

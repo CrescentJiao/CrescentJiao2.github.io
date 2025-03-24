@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title> 詹镜 | Xinyue Jiao</title>
-    <link>http://localhost:1313/authors/-%E8%A9%B9%E9%95%9C/</link>
-      <atom:link href="http://localhost:1313/authors/-%E8%A9%B9%E9%95%9C/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/authors/-%E8%A9%B9%E9%95%9C/</link>
+      <atom:link href="https://example.com/authors/-%E8%A9%B9%E9%95%9C/index.xml" rel="self" type="application/rss+xml" />
     <description> 詹镜</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>https://example.com/media/icon_hu_7613a4a452ac7087.png</url>
       <title> 詹镜</title>
-      <link>http://localhost:1313/authors/-%E8%A9%B9%E9%95%9C/</link>
+      <link>https://example.com/authors/-%E8%A9%B9%E9%95%9C/</link>
     </image>
     
     <item>
       <title>STEM 教育背景下小学生问题解决能力培养课程设计</title>
-      <link>http://localhost:1313/publication/%E7%8E%8B%E8%95%8A-2020-stem/</link>
+      <link>https://example.com/publication/%E7%8E%8B%E8%95%8A-2020-stem/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/%E7%8E%8B%E8%95%8A-2020-stem/</guid>
+      <guid>https://example.com/publication/%E7%8E%8B%E8%95%8A-2020-stem/</guid>
       <description></description>
     </item>
     

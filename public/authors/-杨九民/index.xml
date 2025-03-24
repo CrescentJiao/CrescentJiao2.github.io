@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title> 杨九民 | Xinyue Jiao</title>
-    <link>http://localhost:1313/authors/-%E6%9D%A8%E4%B9%9D%E6%B0%91/</link>
-      <atom:link href="http://localhost:1313/authors/-%E6%9D%A8%E4%B9%9D%E6%B0%91/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/authors/-%E6%9D%A8%E4%B9%9D%E6%B0%91/</link>
+      <atom:link href="https://example.com/authors/-%E6%9D%A8%E4%B9%9D%E6%B0%91/index.xml" rel="self" type="application/rss+xml" />
     <description> 杨九民</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>https://example.com/media/icon_hu_7613a4a452ac7087.png</url>
       <title> 杨九民</title>
-      <link>http://localhost:1313/authors/-%E6%9D%A8%E4%B9%9D%E6%B0%91/</link>
+      <link>https://example.com/authors/-%E6%9D%A8%E4%B9%9D%E6%B0%91/</link>
     </image>
     
     <item>
       <title>教学视频中线索类型与学习者先前知识经验对学习的交互影响</title>
-      <link>http://localhost:1313/publication/%E6%9D%A8%E4%B9%9D%E6%B0%91-2020-%E6%95%99%E5%AD%A6%E8%A7%86%E9%A2%91%E4%B8%AD%E7%BA%BF%E7%B4%A2%E7%B1%BB%E5%9E%8B%E4%B8%8E%E5%AD%A6%E4%B9%A0%E8%80%85%E5%85%88%E5%89%8D%E7%9F%A5%E8%AF%86%E7%BB%8F%E9%AA%8C%E5%AF%B9%E5%AD%A6%E4%B9%A0%E7%9A%84%E4%BA%A4%E4%BA%92%E5%BD%B1%E5%93%8D/</link>
+      <link>https://example.com/publication/%E6%9D%A8%E4%B9%9D%E6%B0%91-2020-%E6%95%99%E5%AD%A6%E8%A7%86%E9%A2%91%E4%B8%AD%E7%BA%BF%E7%B4%A2%E7%B1%BB%E5%9E%8B%E4%B8%8E%E5%AD%A6%E4%B9%A0%E8%80%85%E5%85%88%E5%89%8D%E7%9F%A5%E8%AF%86%E7%BB%8F%E9%AA%8C%E5%AF%B9%E5%AD%A6%E4%B9%A0%E7%9A%84%E4%BA%A4%E4%BA%92%E5%BD%B1%E5%93%8D/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/%E6%9D%A8%E4%B9%9D%E6%B0%91-2020-%E6%95%99%E5%AD%A6%E8%A7%86%E9%A2%91%E4%B8%AD%E7%BA%BF%E7%B4%A2%E7%B1%BB%E5%9E%8B%E4%B8%8E%E5%AD%A6%E4%B9%A0%E8%80%85%E5%85%88%E5%89%8D%E7%9F%A5%E8%AF%86%E7%BB%8F%E9%AA%8C%E5%AF%B9%E5%AD%A6%E4%B9%A0%E7%9A%84%E4%BA%A4%E4%BA%92%E5%BD%B1%E5%93%8D/</guid>
+      <guid>https://example.com/publication/%E6%9D%A8%E4%B9%9D%E6%B0%91-2020-%E6%95%99%E5%AD%A6%E8%A7%86%E9%A2%91%E4%B8%AD%E7%BA%BF%E7%B4%A2%E7%B1%BB%E5%9E%8B%E4%B8%8E%E5%AD%A6%E4%B9%A0%E8%80%85%E5%85%88%E5%89%8D%E7%9F%A5%E8%AF%86%E7%BB%8F%E9%AA%8C%E5%AF%B9%E5%AD%A6%E4%B9%A0%E7%9A%84%E4%BA%A4%E4%BA%92%E5%BD%B1%E5%93%8D/</guid>
       <description></description>
     </item>
     
