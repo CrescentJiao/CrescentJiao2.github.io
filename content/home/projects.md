@@ -24,18 +24,20 @@ subtitle = ""
   [[content.filter_button]]
     name = "All"
     tag = "*"
-  
-  [[content.filter_button]]
-    name = "Learning with media"
-    tag = "Learning with media"
 
   [[content.filter_button]]
-    name = "Curriculum analytics"
-    tag = "Curriculum analytics"
-    
+    name = "VR"
+    tag = "VR"
+
   [[content.filter_button]]
-    name = "Multimodal analytics"
-    tag = "Multimodal analytics"
+    name = "Augmented Reality (AR)"
+    tag = "Augmented Reality (AR)"
+
+  [[content.filter_button]]
+    name = "Instructional design"
+    tag = "Instructional design"
+    
+  
     
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

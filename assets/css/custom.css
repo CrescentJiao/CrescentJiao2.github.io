@@ -1,0 +1,18 @@
+.pub-list-item {
+  margin-bottom: 0.5rem;
+  padding: 5px;
+}
+
+.pub-icon {
+  margin-right: 5px;
+  color: #007bff;
+}
+
+.article-metadata {
+  font-weight: bold;
+  margin-right: 5px;
+}
+
+.btn-links {
+  margin-top: 5px;
+}

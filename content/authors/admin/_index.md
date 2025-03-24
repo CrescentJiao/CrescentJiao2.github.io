@@ -48,22 +48,22 @@ social:
 #  link: 'mailto:'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/fanjie_li
+  link: ''
 - icon: linkedin-in
   icon_pack: fab
-  link: https://www.linkedin.com/in/fanjie-li-216bb3156/
+  link: https://www.linkedin.com/in/xinyue-jiao/
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=Fx1PA6oAAAAJ&hl=en
+  link: https://scholar.google.com/citations?user=hVqfI2QAAAAJ&hl=en&oi=ao
 # - icon: orcid
 #   icon_pack: ai
 #   link: https://orcid.org/0000-0001-7016-6354/print
 - icon: github
   icon_pack: fab
-  link: https://github.com/Fanjie-Li
+  link: https://github.com/CrescentJiao
 - icon: researchgate
   icon_pack: ai
-  link: https://www.researchgate.net/profile/Fanjie_Li3
+  link: https://www.researchgate.net/profile/Xinyue-Jiao
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -84,8 +84,9 @@ user_groups:
 - Visitors
 ---
 
-Hello 👋 I am a PhD student at NYU Steinhardt's [ECT Program](https://steinhardt.nyu.edu/programs/educational-communication-and-technology), and a doctoral researcher at the NYU Learning Analytics Research Network ([NYU-LEARN](https://steinhardt.nyu.edu/learn)). 
+Hello 👋 I am a PhD student at NYU Steinhardt's [ECT Program](https://steinhardt.nyu.edu/programs/educational-communication-and-technology), and a research assistant at Create Lab ([NYU-CREATE](https://create.nyu.edu/)). 
 
-My work encompasses human-centered design and implementation of learning analytics and the research and development of actionable, conversational analytics interfaces. 
+I am interested in creating and designing, learning analytics and formative assessment. Sepcifically, Xinyue is passionate about creating educational applications that integrate advanced technologies, such as AR/AR, generative AI, and using various methods, including AI and multimodal learning analytics, to understand and enhance student cognition and interactions within collaborative VR/AR learning environments.
 
-Before joining NYU-LEARN, I worked as a research assistant at the [HKU CCMIR Lab](http://ccmir.cite.hku.hk/), with a focus on the R&D of user-centered, context-aware music recommenders through physiological sensing, music (audio) processing, and UX research.
+Before joining NYU, I obtained my master degree in Educational Technology at Beijing Normal University (BNU) (北京师范大学)</a>. I designed AR applications for K-12 education and conducted research on improving learners' experiences at [AR/VR+Education Lab]("https://www.researchgate.net/lab/VR-AR-Education-Lab-Su-Cai). 
+

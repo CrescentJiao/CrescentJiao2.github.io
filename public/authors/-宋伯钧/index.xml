@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> 宋伯钧 | Xinyue Jiao</title>
+    <link>http://localhost:1313/authors/-%E5%AE%8B%E4%BC%AF%E9%92%A7/</link>
+      <atom:link href="http://localhost:1313/authors/-%E5%AE%8B%E4%BC%AF%E9%92%A7/index.xml" rel="self" type="application/rss+xml" />
+    <description> 宋伯钧</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
+      <title> 宋伯钧</title>
+      <link>http://localhost:1313/authors/-%E5%AE%8B%E4%BC%AF%E9%92%A7/</link>
+    </image>
+    
+    <item>
+      <title>打开教育的另一扇门——教育元宇宙的应用, 挑战与展望</title>
+      <link>http://localhost:1313/publication/%E8%94%A1%E8%8B%8F-2022-%E6%89%93%E5%BC%80%E6%95%99%E8%82%B2%E7%9A%84%E5%8F%A6%E4%B8%80%E6%89%87%E9%97%A8/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/%E8%94%A1%E8%8B%8F-2022-%E6%89%93%E5%BC%80%E6%95%99%E8%82%B2%E7%9A%84%E5%8F%A6%E4%B8%80%E6%89%87%E9%97%A8/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

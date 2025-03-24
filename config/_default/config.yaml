@@ -1,0 +1,111 @@
+# Configuration of Hugo
+# Guide: https://wowchemy.com/docs/getting-started/
+# Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
+# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
+
+title: Xinyue Jiao # Website name
+baseURL: 'https://example.com/' # Website URL
+
+############################
+## LANGUAGE
+############################
+
+defaultContentLanguage: en
+hasCJKLanguage: false
+defaultContentLanguageInSubdir: false
+removePathAccents: true
+
+############################
+## MODULES
+############################
+
+module:
+  imports:
+    - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-reveal
+    - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-bootstrap/v5
+
+############################
+## ADVANCED
+############################
+
+enableGitInfo: false
+summaryLength: 30
+pagination:
+  pagerSize: 10
+enableEmoji: true
+enableRobotsTXT: true
+footnotereturnlinkcontents: <sup>^</sup>
+ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
+permalinks:
+  event: '/talk/:slug/'
+  tags: '/tag/:slug/'
+  categories: '/category/:slug/'
+  publication_types: '/publication-type/:slug/'
+disableAliases: true
+outputs:
+  home: [HTML, RSS, JSON, WebAppManifest]
+  section: [HTML, RSS]
+imaging:
+  resampleFilter: lanczos
+  quality: 75
+  anchor: smart
+timeout: 600000
+taxonomies:
+  tag: tags
+  category: categories
+  publication_type: publication_types
+  author: authors
+markup:
+  _merge: deep
+related:
+  threshold: 80
+  includeNewer: true
+  toLower: true
+  indices:
+    - name: tags
+      weight: 100
+    - name: categories
+      weight: 70
+security:
+  _merge: deep
+sitemap:
+  _merge: deep
+minify:
+  _merge: deep
+
+# SV edit: cascade will apply settings to content type (unless settings explicitely specified in index.md of the event)
+cascade:
+  # Configure publications
+  - _target:
+      path: /publication/**
+    share: false          # Show social sharing links?
+    profile: false        # Show author profile (photo and bio) under the content?
+  # Configure talks
+  # NB: check out https://academic-demo.netlify.app/ for demo of full capabilities
+  - _target:
+      path: /event/**
+    share: false          # Show social sharing links?
+    profile: false        # Show author profile (photo and bio) under the content?
+    commentable: false    # Allow users to comment on the page?
+    editable: false       # Allow visitors to make improvements to the page?
+    pager: false          # Show a link to the next article in the series?
+    show_related: false   # Show recommendations for related content?
+    show_breadcrumb: true # Show breadcrumb navigation?
+    header:
+      navbar:
+        enable: false      # Hide the navigation bar?
+  - _target:
+      path: /projects/**
+    share: false          # Show social sharing links?
+    profile: false        # Show author profile (photo and bio) under the content?
+    commentable: false    # Allow users to comment on the page?
+    editable: false       # Allow visitors to make improvements to the page?
+    pager: false          # Show a link to the next article in the series?
+    show_related: false   # Show recommendations for related content?
+    show_breadcrumb: true # Show breadcrumb navigation?
+    header:
+      navbar:
+        enable: false      # Hide the navigation bar?
+params:
+  publications:
+    citation_style: "apa"

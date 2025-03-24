@@ -1,0 +1,21 @@
+// --- Override default "about" widget css
+// https://github.com/wowchemy/wowchemy-hugo-themes/blob/main/modules/wowchemy/assets/scss/wowchemy/widgets/_about.scss
+// NB: remember that styling options are parsed in page section settings:
+//  => content/_index.md > block about-custom > design > spacing > padding: ["2%", "2%", "20px", "2%"]
+
+#profile {
+    text-align: center;
+    padding: 30px 10px;
+    position: relative;
+  }
+  
+.avatar {
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    object-fit: cover;
+}
+
+#profile .network-icon {
+    margin-top: 30px;
+}

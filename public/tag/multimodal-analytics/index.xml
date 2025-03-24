@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Multimodal Analytics | </title>
+    <link>//localhost:1313/tag/multimodal-analytics/</link>
+      <atom:link href="//localhost:1313/tag/multimodal-analytics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Multimodal Analytics</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 15 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/media/icon_hu_1b4bcfdf7d67b990.png</url>
+      <title>Multimodal Analytics</title>
+      <link>//localhost:1313/tag/multimodal-analytics/</link>
+    </image>
+    
+    <item>
+      <title>Multimodal Analysis of User-music Interactions in the Lab</title>
+      <link>//localhost:1313/project/music-learning-laboratory/</link>
+      <pubDate>Sun, 15 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/project/music-learning-laboratory/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Jul. 2018 - Mar. 2019 (Principal Investigator: Dr. Xiao Hu)
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;p&gt;It is a common phenomenon for students to listen to background music while studying. However, there are mixed and inconclusive findings in the literature, leaving it unclear whether and in which circumstances background music can facilitate or hinder learning. In this project, we conducted a laboratory experiment to investigate the effects of five different types of background audio (four types of instrumental music and one environmental sound) on reading comprehension.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Highlights:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A laboratoy experiment that collects:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;a series of cognitive, metacognitive, and affective variables using self-reported measures;&lt;/li&gt;
+&lt;li&gt;a set of peripheral physiological signals (BVP, HR, IBI, EDA, TEMP) recorded by Empatica E4 wristband;&lt;/li&gt;
+&lt;li&gt;participants&amp;rsquo; eye movement recorded by the Tobii eye tracker.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Investigate how background music affects learning performance and engagement based on analytics at both behavioral and physiological levels.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Music Recommender Systems Based on Physiological Signals</title>
+      <link>//localhost:1313/project/music-emotion-recognition/</link>
+      <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/project/music-emotion-recognition/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Jul. 2017 - Jun. 2021 (Principal Investigator: Dr. Xiao Hu)
+  &lt;/div&gt;
+&lt;/div&gt;
+
+ --&gt;
+&lt;p&gt;The state-of-the-art emotion-based music information retrieval (MIR) systems have focused on modelling music emotion from acoustic music features. This project aims to further personalize emotion-aware music recommendation via incorporating user-related modalities (i.e., physiological signals).&lt;/p&gt;
+&lt;p&gt;In this project, we conducted a user experiment that simulated a real-life music discovery scenario. The dataset built from this experiment will be used to build the music emotion recognition (MER) module of the music recommendation system.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Highlights:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Designed and performed a user experiment to build a dataset with synchronized physiological signals (BVP, HR, IBI, EDA, TEMP) and user-labelled music-induced emotion;&lt;/li&gt;
+&lt;li&gt;Built the music emotion recognition (MER) model using physiological features and music features.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

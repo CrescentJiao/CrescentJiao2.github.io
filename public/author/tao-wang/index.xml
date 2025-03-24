@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tao Wang | </title>
+    <link>//localhost:1313/author/tao-wang/</link>
+      <atom:link href="//localhost:1313/author/tao-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tao Wang</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 14 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/media/icon_hu_1b4bcfdf7d67b990.png</url>
+      <title>Tao Wang</title>
+      <link>//localhost:1313/author/tao-wang/</link>
+    </image>
+    
+    <item>
+      <title>Conceptions of learning science among elementary school students in AR learning environment A case study of &#39;Magic sound&#39;</title>
+      <link>//localhost:1313/publication/magic-sound/</link>
+      <pubDate>Tue, 14 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publication/magic-sound/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

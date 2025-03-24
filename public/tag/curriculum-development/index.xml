@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Curriculum Development | Xinyue Jiao</title>
+    <link>http://localhost:1313/tag/curriculum-development/</link>
+      <atom:link href="http://localhost:1313/tag/curriculum-development/index.xml" rel="self" type="application/rss+xml" />
+    <description>Curriculum Development</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 15 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
+      <title>Curriculum Development</title>
+      <link>http://localhost:1313/tag/curriculum-development/</link>
+    </image>
+    
+    <item>
+      <title>Intelligent Augmented Reality Learning Environment</title>
+      <link>http://localhost:1313/project/intelligent-arle/</link>
+      <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/intelligent-arle/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Aug. 2020 - Present (Principal Investigator: Dr. Xiao Hu)
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;p&gt;🌟 Project Overview&lt;/p&gt;
+&lt;p&gt;Funded by the National Science Foundation of China, this project aims to develop intelligent AR learning environments that utilize multi-channel information fusion to enhance student engagement and learning outcomes, for example, designing AR applications than embeded visual, auditory elements to enhance students&amp;rsquo; learning.&lt;/p&gt;
+&lt;p&gt;🛠️ Key Responsibilities
+•	Designed and developed AR applications to investigate their effects on learning outcomes.
+•	Designed an AR-data system to track student behaviors.
+•	Explored AI integration in AR systems to deliver automatic, context-aware feedback to learners.&lt;/p&gt;
+&lt;p&gt;🚀 Research Impact&lt;/p&gt;
+&lt;p&gt;This project contributes to the development of intelligent educational environments, enabling adaptive learning experiences and real-time feedback that support student-centered instruction.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

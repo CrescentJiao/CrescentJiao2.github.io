@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shuhui Li | Xinyue Jiao</title>
+    <link>http://localhost:1313/authors/shuhui-li/</link>
+      <atom:link href="http://localhost:1313/authors/shuhui-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shuhui Li</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
+      <title>Shuhui Li</title>
+      <link>http://localhost:1313/authors/shuhui-li/</link>
+    </image>
+    
+    <item>
+      <title>Enhancing AR-based learning environments for STEM education: A design-based study on design features, kinematics learning and mathematics self-efficacy</title>
+      <link>http://localhost:1313/publication/li-2024-enhancing/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/li-2024-enhancing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using augmented reality to enhance students’ representational fluency: The case of linear functions</title>
+      <link>http://localhost:1313/publication/li-2022-using/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/li-2022-using/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
-title = "Recent Publications"
+title = "Publications"
 subtitle = ""
 
 [content]
@@ -30,14 +30,19 @@ subtitle = ""
     publication_type = ""
     author = ""
     exclude_featured = false
+  # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
+  filter_default = 0
   
+
+
+ 
 [design]
   # Toggle between the various page layout types.
   #   1 = List
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 2
+  view = 4
 
 
 [design.spacing]
@@ -71,4 +76,3 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-

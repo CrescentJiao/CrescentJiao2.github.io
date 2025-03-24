@@ -1,4 +1,4 @@
-<p align="center"><a href="https://wowchemy.com" target="_blank" rel="noopener"><img src="https://wowchemy.com/img/logo_200px.png" alt="Wowchemy Website Builder"></a></p>
+https://crescentjiao.github.io/CrescentJiao2.github.io/
 
 # Academic Template for [Hugo](https://github.com/gohugoio/hugo)
 
@@ -6,7 +6,7 @@ The Hugo **Academic Resumé Template** empowers you to create your job-winning o
 
 [Check out the latest demo](https://academic-demo.netlify.app) of what you'll get in less than 10 minutes, or [view the showcase](https://wowchemy.com/user-stories/).
 
-[**Wowchemy**](https://wowchemy.com) makes it easy to create a beautiful website for free. Edit your site in Markdown, Jupyter, or RStudio (via Blogdown), generate it with Hugo, and deploy with GitHub or Netlify. Customize anything on your site with widgets, themes, and language packs.
+
 
 - 👉 [**Get Started**](https://wowchemy.com/docs/install/)
 - 📚 [View the **documentation**](https://wowchemy.com/docs/)

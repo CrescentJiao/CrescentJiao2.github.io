@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rui Wang | Xinyue Jiao</title>
+    <link>http://localhost:1313/authors/rui-wang/</link>
+      <atom:link href="http://localhost:1313/authors/rui-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rui Wang</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
+      <title>Rui Wang</title>
+      <link>http://localhost:1313/authors/rui-wang/</link>
+    </image>
+    
+    <item>
+      <title>Exploring the argumentation characteristics in SSI video discussion area of online video learning website</title>
+      <link>http://localhost:1313/publication/jiao-2022-exploring/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/jiao-2022-exploring/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

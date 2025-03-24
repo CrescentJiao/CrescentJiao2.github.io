@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Collaborative Inquiry, Augmented Reality (AR), Group Interaction Patterns, Educational Technology | </title>
+    <link>//localhost:1313/tag/collaborative-inquiry-augmented-reality-ar-group-interaction-patterns-educational-technology/</link>
+      <atom:link href="//localhost:1313/tag/collaborative-inquiry-augmented-reality-ar-group-interaction-patterns-educational-technology/index.xml" rel="self" type="application/rss+xml" />
+    <description>Collaborative Inquiry, Augmented Reality (AR), Group Interaction Patterns, Educational Technology</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 15 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/media/icon_hu_1b4bcfdf7d67b990.png</url>
+      <title>Collaborative Inquiry, Augmented Reality (AR), Group Interaction Patterns, Educational Technology</title>
+      <link>//localhost:1313/tag/collaborative-inquiry-augmented-reality-ar-group-interaction-patterns-educational-technology/</link>
+    </image>
+    
+    <item>
+      <title>Collaborative Inquiry in AR Learning Environments</title>
+      <link>//localhost:1313/project/collaboration-in-arle/</link>
+      <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/project/collaboration-in-arle/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Jul. 2017 - Jun. 2021 (Principal Investigator: Dr. Xiao Hu)
+  &lt;/div&gt;
+&lt;/div&gt;
+
+ --&gt;
+&lt;p&gt;Focusing on the effects of integrating collaborative scripts into AR inquiry activities. Using learning analytics methods, such as cluster analysis, Lag Sequential Analysis, etc., to analyze students&amp;rsquo; collaborative inquiry performance.&lt;/p&gt;
+&lt;p&gt;🌟 Project Overview&lt;/p&gt;
+&lt;p&gt;This project investigates the influence of collaborative scripts and group interaction patterns on middle school students’ collaborative inquiry outcomes in AR learning environments. It aims to understand how structured collaboration impacts knowledge acquisition and group dynamics in immersive educational settings.&lt;/p&gt;
+&lt;p&gt;🔍 Research Objectives
+1.	Examine the effect of collaborative scripts on group interaction and inquiry outcomes.
+2.	Analyze group interaction patterns to identify collaborative behaviors that foster learning.
+3.	Develop strategies for enhancing collaboration in AR-based learning activities.&lt;/p&gt;
+&lt;p&gt;🛠️ Methodology
+•	Data Collection: Pre-tests, group worksheets, post-tests, delayed post-tests, and video recordings of group activities.
+•	Data Analysis: ANCOVA, t-tests for outcomes, and lag sequential analysis for interaction behavior patterns.
+•	Assessment: Evaluated collaborative inquiry performance across five dimensions (knowledge understanding, role division, interaction participation, coordination supervision, and cooperation atmosphere).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

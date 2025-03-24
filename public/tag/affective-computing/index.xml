@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Affective Computing | </title>
+    <link>//localhost:1313/tag/affective-computing/</link>
+      <atom:link href="//localhost:1313/tag/affective-computing/index.xml" rel="self" type="application/rss+xml" />
+    <description>Affective Computing</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 15 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>//localhost:1313/media/icon_hu_1b4bcfdf7d67b990.png</url>
+      <title>Affective Computing</title>
+      <link>//localhost:1313/tag/affective-computing/</link>
+    </image>
+    
+    <item>
+      <title>Music Recommender Systems Based on Physiological Signals</title>
+      <link>//localhost:1313/project/music-emotion-recognition/</link>
+      <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/project/music-emotion-recognition/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Jul. 2017 - Jun. 2021 (Principal Investigator: Dr. Xiao Hu)
+  &lt;/div&gt;
+&lt;/div&gt;
+
+ --&gt;
+&lt;p&gt;The state-of-the-art emotion-based music information retrieval (MIR) systems have focused on modelling music emotion from acoustic music features. This project aims to further personalize emotion-aware music recommendation via incorporating user-related modalities (i.e., physiological signals).&lt;/p&gt;
+&lt;p&gt;In this project, we conducted a user experiment that simulated a real-life music discovery scenario. The dataset built from this experiment will be used to build the music emotion recognition (MER) module of the music recommendation system.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Highlights:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Designed and performed a user experiment to build a dataset with synchronized physiological signals (BVP, HR, IBI, EDA, TEMP) and user-labelled music-induced emotion;&lt;/li&gt;
+&lt;li&gt;Built the music emotion recognition (MER) model using physiological features and music features.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

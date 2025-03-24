@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Su Cai | Xinyue Jiao</title>
+    <link>http://localhost:1313/authors/su-cai/</link>
+      <atom:link href="http://localhost:1313/authors/su-cai/index.xml" rel="self" type="application/rss+xml" />
+    <description>Su Cai</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
+      <title>Su Cai</title>
+      <link>http://localhost:1313/authors/su-cai/</link>
+    </image>
+    
+    <item>
+      <title>Enhancing AR-based learning environments for STEM education: A design-based study on design features, kinematics learning and mathematics self-efficacy</title>
+      <link>http://localhost:1313/publication/li-2024-enhancing/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/li-2024-enhancing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conceptions of learning science among elementary school students in AR learning environment: A case study of “The Magic Sound”</title>
+      <link>http://localhost:1313/publication/cai-2022-conceptions/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/cai-2022-conceptions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring the argumentation characteristics in SSI video discussion area of online video learning website</title>
+      <link>http://localhost:1313/publication/jiao-2022-exploring/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/jiao-2022-exploring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open another door to education—applications, challenges and perspectives of the educational Metaverse</title>
+      <link>http://localhost:1313/publication/cai-2022-open/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/cai-2022-open/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Effect of Role Assignment on Students’ Collaborative Inquiry-based Learning in Augmented Reality Environment</title>
+      <link>http://localhost:1313/publication/jiao-2022-effect/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/jiao-2022-effect/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Effects of AR Learning Environment to Preschool Children’s Numerical Cognition</title>
+      <link>http://localhost:1313/publication/feng-2022-effects/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/feng-2022-effects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using augmented reality to enhance students’ representational fluency: The case of linear functions</title>
+      <link>http://localhost:1313/publication/li-2022-using/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/li-2022-using/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AR learning environment integrated with EIA inquiry model: Enhancing scientific literacy and reducing cognitive load of students</title>
+      <link>http://localhost:1313/publication/yang-2021-ar/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/yang-2021-ar/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

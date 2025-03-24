@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> 李江旭 | Xinyue Jiao</title>
+    <link>http://localhost:1313/authors/-%E6%9D%8E%E6%B1%9F%E6%97%AD/</link>
+      <atom:link href="http://localhost:1313/authors/-%E6%9D%8E%E6%B1%9F%E6%97%AD/index.xml" rel="self" type="application/rss+xml" />
+    <description> 李江旭</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
+      <title> 李江旭</title>
+      <link>http://localhost:1313/authors/-%E6%9D%8E%E6%B1%9F%E6%97%AD/</link>
+    </image>
+    
+    <item>
+      <title>冬奥会滑雪科普 AR 案例设计与开发</title>
+      <link>http://localhost:1313/publication/%E8%94%A1%E8%8B%8F-2021-%E5%86%AC%E5%A5%A5%E4%BC%9A%E6%BB%91%E9%9B%AA%E7%A7%91%E6%99%AE/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/%E8%94%A1%E8%8B%8F-2021-%E5%86%AC%E5%A5%A5%E4%BC%9A%E6%BB%91%E9%9B%AA%E7%A7%91%E6%99%AE/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
