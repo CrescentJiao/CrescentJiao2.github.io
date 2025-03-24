@@ -22,10 +22,9 @@ links:
 #   url: media/LAK19/p101-hu.pdf
 # - name: LAK'19 Presentation
 #   url: media/LAK19/slide.pdf
-- name: Experiment Design (HI-RES)
-  url: media/LAK19/LAK19-experiment-design.png
-- name: PI-Dr Xiao Hu
-  url: http://ccmir.cite.hku.hk/index.php/leverage-the-power-of-music-for-learning/
+- name: Experience design
+  url: 
+
 # url_code: ""
 # url_pdf: ""
 # url_slides: ""
@@ -41,7 +40,7 @@ slides: example
 ---
 
 <!-- {{% callout note %}}
-Jul. 2018 - Mar. 2019 (Principal Investigator: Dr. Xiao Hu)
+Jul. 2021 - Mar. 2023 (Principal Investigator: Dr. Su Cai)
 {{% /callout %}} -->
 
 🌟 Project Overview
