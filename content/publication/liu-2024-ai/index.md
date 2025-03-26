@@ -1,18 +1,18 @@
 ---
 title: 'How ai assisted k-12 computer science education: A systematic review'
 authors:
-- Zifeng Liu
-- Rui Guo
-- Xinyue Jiao
-- Xueyan Gao
-- Hyunju Oh
-- Wanli Xing
+- Liu, Zifeng
+- Guo, Rui
+- Jiao, Xinyue
+- Gao, Xueyan
+- Oh, Hyunju
+- Xing, Wanli
 date: '2024-01-01'
-publishDate: '2025-03-23T22:29:28.479123Z'
+publishDate: '2025-03-25T22:04:04.251284'
 publication_types:
 - paper-conference
-publication: '*2024 ASEE Annual Conference & Exposition*'
----
+publication: 2024 ASEE Annual Conference \& Exposition
+doi: ''
 abstract: ''
 featured: false
 url_pdf: ''
@@ -29,3 +29,4 @@ image:
   preview_only: false
 projects: []
 ---
+

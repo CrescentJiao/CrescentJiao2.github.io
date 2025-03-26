@@ -88,6 +88,10 @@ features:
       api_key: ''
       index_name: ''
       show_logo: false
+    engine: lunr
+    placeholder: "Search..."
+    max_results: 10
+    show_search_results: true
   map:
     provider: ''
     api_key: ''

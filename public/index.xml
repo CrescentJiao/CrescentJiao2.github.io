@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Xinyue Jiao</title>
-    <link>https://example.com/</link>
-      <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/</link>
+      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <description>Xinyue Jiao</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Xinyue Jiao</title>
-      <link>https://example.com/</link>
+      <link>http://localhost:1313/</link>
     </image>
     
     <item>
       <title>Detecting AI-Generated Pseudocode in High School Online Programming Courses Using an Explainable Approach</title>
-      <link>https://example.com/publication/liu-2025-detecting/</link>
+      <link>http://localhost:1313/publication/liu-2025-detecting/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/liu-2025-detecting/</guid>
+      <guid>http://localhost:1313/publication/liu-2025-detecting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>What are the differences between student and ChatGPT-generated pseudocode? Detecting AI-generated pseudocode in high school programming using explainable machine learning</title>
-      <link>https://example.com/publication/liu-2025-differences/</link>
+      <link>http://localhost:1313/publication/liu-2025-differences/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/liu-2025-differences/</guid>
+      <guid>http://localhost:1313/publication/liu-2025-differences/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Enhancing AR-based learning environments for STEM education: A design-based study on design features, kinematics learning and mathematics self-efficacy</title>
-      <link>https://example.com/publication/li-2024-enhancing/</link>
+      <link>http://localhost:1313/publication/li-2024-enhancing/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/li-2024-enhancing/</guid>
+      <guid>http://localhost:1313/publication/li-2024-enhancing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fair Prediction of Students&#39; Summative Performance Changes Using Online Learning Behavior Data</title>
-      <link>https://example.com/publication/liu-2024-fair/</link>
+      <link>http://localhost:1313/publication/liu-2024-fair/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/liu-2024-fair/</guid>
+      <guid>http://localhost:1313/publication/liu-2024-fair/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How ai assisted k-12 computer science education: A systematic review</title>
-      <link>https://example.com/publication/liu-2024-ai/</link>
+      <link>http://localhost:1313/publication/liu-2024-ai/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/liu-2024-ai/</guid>
+      <guid>http://localhost:1313/publication/liu-2024-ai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Collaborative Inquiry in AR Learning Environments</title>
-      <link>https://example.com/project/collaboration-in-arle/</link>
+      <link>http://localhost:1313/project/collaboration-in-arle/</link>
       <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/collaboration-in-arle/</guid>
+      <guid>http://localhost:1313/project/collaboration-in-arle/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -81,90 +81,109 @@
     </item>
     
     <item>
-      <title>Conceptions of learning science among elementary school students in AR learning environment: A case study of “The Magic Sound”</title>
-      <link>https://example.com/publication/cai-2022-conceptions/</link>
+      <title>Conceptions of learning science among elementary school students in AR learning environment: A case study of &#34;The Magic Sound&#34;</title>
+      <link>http://localhost:1313/publication/cai-2022-conceptions/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/cai-2022-conceptions/</guid>
+      <guid>http://localhost:1313/publication/cai-2022-conceptions/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exploring the argumentation characteristics in SSI video discussion area of online video learning website</title>
-      <link>https://example.com/publication/jiao-2022-exploring/</link>
+      <link>http://localhost:1313/publication/jiao-2022-exploring/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/jiao-2022-exploring/</guid>
+      <guid>http://localhost:1313/publication/jiao-2022-exploring/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Open another door to education—applications, challenges and perspectives of the educational Metaverse</title>
-      <link>https://example.com/publication/cai-2022-open/</link>
+      <link>http://localhost:1313/publication/cai-2022-open/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/cai-2022-open/</guid>
+      <guid>http://localhost:1313/publication/cai-2022-open/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>The Effect of Role Assignment on Students’ Collaborative Inquiry-based Learning in Augmented Reality Environment</title>
-      <link>https://example.com/publication/jiao-2022-effect/</link>
+      <title>The Effect of Role Assignment on Students&#39; Collaborative Inquiry-based Learning in Augmented Reality Environment</title>
+      <link>http://localhost:1313/publication/jiao-2022-effect/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/jiao-2022-effect/</guid>
+      <guid>http://localhost:1313/publication/jiao-2022-effect/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>The Effects of AR Learning Environment to Preschool Children’s Numerical Cognition</title>
-      <link>https://example.com/publication/feng-2022-effects/</link>
+      <title>The Effects of AR Learning Environment to Preschool Children&#39;s Numerical Cognition</title>
+      <link>http://localhost:1313/publication/feng-2022-effects/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/feng-2022-effects/</guid>
+      <guid>http://localhost:1313/publication/feng-2022-effects/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Using augmented reality to enhance students’ representational fluency: The case of linear functions</title>
-      <link>https://example.com/publication/li-2022-using/</link>
+      <title>Using augmented reality to enhance students&#39; representational fluency: The case of linear functions</title>
+      <link>http://localhost:1313/publication/li-2022-using/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/li-2022-using/</guid>
+      <guid>http://localhost:1313/publication/li-2022-using/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>打开教育的另一扇门——教育元宇宙的应用, 挑战与展望</title>
-      <link>https://example.com/publication/%E8%94%A1%E8%8B%8F-2022-%E6%89%93%E5%BC%80%E6%95%99%E8%82%B2%E7%9A%84%E5%8F%A6%E4%B8%80%E6%89%87%E9%97%A8/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/%E8%94%A1%E8%8B%8F-2022-%E6%89%93%E5%BC%80%E6%95%99%E8%82%B2%E7%9A%84%E5%8F%A6%E4%B8%80%E6%89%87%E9%97%A8/</guid>
-      <description></description>
+      <title>Using AR to Enhance Students’ Representational Fluency</title>
+      <link>http://localhost:1313/project/ar-math/</link>
+      <pubDate>Wed, 15 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/ar-math/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Jul. 2021 - Mar. 2023 (Principal Investigator: Dr. Su Cai)
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;p&gt;🌟 Project Overview&lt;/p&gt;
+&lt;p&gt;This joint research project, conducted in collaboration with Columbia University, Beijing Normal University, and East China Normal University, investigates how augmented reality (AR) can enhance students’ representational fluency and self-efficacy in understanding linear functions. The project focuses on designing and evaluating AR applications to support mathematical concept formation and problem-solving skills.&lt;/p&gt;
+&lt;p&gt;🛠️ Key Responsibilities
+•	Developed 5 AR apps with varied design features to promote students’ understanding of linear functions.
+•	Conducted Design-Based Research (DBR) to iteratively refine the apps and assess their impact on student learning.
+•	Collected and analyzed data, including:
+•	Quantitative Analysis: Conducted ANOVA to examine differences in learning outcomes.
+•	Qualitative Analysis: Coded interviews and reflective journals to uncover patterns in students’ experiences.
+•	Co-authored papers to disseminate findings and insights from the study.&lt;/p&gt;
+&lt;p&gt;💡 Research Impact&lt;/p&gt;
+&lt;p&gt;This project demonstrates how leveraging AR can foster representational fluency and build students’ confidence in mathematical problem-solving. By combining innovative technology with evidence-based research, it contributes to the development of cutting-edge educational tools and pedagogical strategies.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>AR learning environment integrated with EIA inquiry model: Enhancing scientific literacy and reducing cognitive load of students</title>
-      <link>https://example.com/publication/yang-2021-ar/</link>
+      <link>http://localhost:1313/publication/yang-2021-ar/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/yang-2021-ar/</guid>
+      <guid>http://localhost:1313/publication/yang-2021-ar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Effects of Augmented Reality on Students&#39; Online Physics Learning</title>
-      <link>https://example.com/publication/zifeng-2021-effects/</link>
+      <link>http://localhost:1313/publication/zifeng-2021-effects/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/zifeng-2021-effects/</guid>
+      <guid>http://localhost:1313/publication/zifeng-2021-effects/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>How Different Cognitive Style Groups Affect Learners’ Knowledge Construction in Collaborative Argumentation</title>
-      <link>https://example.com/publication/jiao-2021-different/</link>
+      <title>How Different Cognitive Style Groups Affect Learners&#39; Knowledge Construction in Collaborative Argumentation</title>
+      <link>http://localhost:1313/publication/jiao-2021-different/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/jiao-2021-different/</guid>
+      <guid>http://localhost:1313/publication/jiao-2021-different/</guid>
       <description></description>
     </item>
     
     <item>
       <title>⛰️Exploring the contour lines</title>
-      <link>https://example.com/myapps/contour/</link>
+      <link>http://localhost:1313/myapps/contour/</link>
       <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/myapps/contour/</guid>
+      <guid>http://localhost:1313/myapps/contour/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -181,9 +200,9 @@ Adopted by one elementary schools in China&lt;/p&gt;
     
     <item>
       <title>🌍 Our Earth</title>
-      <link>https://example.com/myapps/ourearth/</link>
+      <link>http://localhost:1313/myapps/ourearth/</link>
       <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/myapps/ourearth/</guid>
+      <guid>http://localhost:1313/myapps/ourearth/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -200,9 +219,9 @@ Adopted by one elementary schools in China&lt;/p&gt;
     
     <item>
       <title>🌞 Mystery of solar altitude</title>
-      <link>https://example.com/myapps/solaraltitude/</link>
+      <link>http://localhost:1313/myapps/solaraltitude/</link>
       <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/myapps/solaraltitude/</guid>
+      <guid>http://localhost:1313/myapps/solaraltitude/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -219,9 +238,9 @@ Adopted by one elementary schools in China&lt;/p&gt;
     
     <item>
       <title>🏃Encounter and chase problems</title>
-      <link>https://example.com/myapps/beijing2/</link>
+      <link>http://localhost:1313/myapps/beijing2/</link>
       <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/myapps/beijing2/</guid>
+      <guid>http://localhost:1313/myapps/beijing2/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -238,9 +257,9 @@ Adopted by one elementary schools in China&lt;/p&gt;
     
     <item>
       <title>🐝Linear Functions</title>
-      <link>https://example.com/myapps/run/</link>
+      <link>http://localhost:1313/myapps/run/</link>
       <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/myapps/run/</guid>
+      <guid>http://localhost:1313/myapps/run/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -257,9 +276,9 @@ Adopted by one elementary schools in China&lt;/p&gt;
     
     <item>
       <title>🐝Segmentation Functions</title>
-      <link>https://example.com/myapps/bee/</link>
+      <link>http://localhost:1313/myapps/bee/</link>
       <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/myapps/bee/</guid>
+      <guid>http://localhost:1313/myapps/bee/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -276,9 +295,9 @@ Adopted by one elementary schools in China&lt;/p&gt;
     
     <item>
       <title>📝Linear Functions</title>
-      <link>https://example.com/myapps/beijing1/</link>
+      <link>http://localhost:1313/myapps/beijing1/</link>
       <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/myapps/beijing1/</guid>
+      <guid>http://localhost:1313/myapps/beijing1/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -295,9 +314,9 @@ Adopted by one elementary schools in China&lt;/p&gt;
     
     <item>
       <title>🚥The three primary colors of light&lt;</title>
-      <link>https://example.com/myapps/light1/</link>
+      <link>http://localhost:1313/myapps/light1/</link>
       <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/myapps/light1/</guid>
+      <guid>http://localhost:1313/myapps/light1/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -314,9 +333,9 @@ Adopted by one elementary schools in China&lt;/p&gt;
     
     <item>
       <title>Encounter and chase problems</title>
-      <link>https://example.com/myapps/mathzhuiji/</link>
+      <link>http://localhost:1313/myapps/mathzhuiji/</link>
       <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/myapps/mathzhuiji/</guid>
+      <guid>http://localhost:1313/myapps/mathzhuiji/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -333,9 +352,9 @@ Adopted by one elementary schools in China&lt;/p&gt;
     
     <item>
       <title>Intelligent Augmented Reality Learning Environment</title>
-      <link>https://example.com/project/intelligent-arle/</link>
+      <link>http://localhost:1313/project/intelligent-arle/</link>
       <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/intelligent-arle/</guid>
+      <guid>http://localhost:1313/project/intelligent-arle/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -357,9 +376,9 @@ Adopted by one elementary schools in China&lt;/p&gt;
     
     <item>
       <title>🕎 Dispersion of Light</title>
-      <link>https://example.com/myapps/light2/</link>
+      <link>http://localhost:1313/myapps/light2/</link>
       <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/myapps/light2/</guid>
+      <guid>http://localhost:1313/myapps/light2/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -376,9 +395,9 @@ Adopted by one elementary schools in China&lt;/p&gt;
     
     <item>
       <title>🧪 Diverse electrolytes</title>
-      <link>https://example.com/myapps/dianjiezhi/</link>
+      <link>http://localhost:1313/myapps/dianjiezhi/</link>
       <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/myapps/dianjiezhi/</guid>
+      <guid>http://localhost:1313/myapps/dianjiezhi/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -394,86 +413,53 @@ Adopted by one elementary schools in China&lt;/p&gt;
     </item>
     
     <item>
-      <title>STEM 教育背景下小学生问题解决能力培养课程设计</title>
-      <link>https://example.com/publication/%E7%8E%8B%E8%95%8A-2020-stem/</link>
+      <title>The Influence of Augmented Reality Embedding Cognitive Scaffolds on Elementary Students&#39; Scientific Learning</title>
+      <link>http://localhost:1313/publication/xinyue-2020-influence/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/%E7%8E%8B%E8%95%8A-2020-stem/</guid>
+      <guid>http://localhost:1313/publication/xinyue-2020-influence/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>The Influence of Augmented Reality Embedding Cognitive Scaffolds on Elementary Students’ Scientific Learning</title>
-      <link>https://example.com/publication/xinyue-2020-influence/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/xinyue-2020-influence/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>教学视频中线索类型与学习者先前知识经验对学习的交互影响</title>
-      <link>https://example.com/publication/%E6%9D%A8%E4%B9%9D%E6%B0%91-2020-%E6%95%99%E5%AD%A6%E8%A7%86%E9%A2%91%E4%B8%AD%E7%BA%BF%E7%B4%A2%E7%B1%BB%E5%9E%8B%E4%B8%8E%E5%AD%A6%E4%B9%A0%E8%80%85%E5%85%88%E5%89%8D%E7%9F%A5%E8%AF%86%E7%BB%8F%E9%AA%8C%E5%AF%B9%E5%AD%A6%E4%B9%A0%E7%9A%84%E4%BA%A4%E4%BA%92%E5%BD%B1%E5%93%8D/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/%E6%9D%A8%E4%B9%9D%E6%B0%91-2020-%E6%95%99%E5%AD%A6%E8%A7%86%E9%A2%91%E4%B8%AD%E7%BA%BF%E7%B4%A2%E7%B1%BB%E5%9E%8B%E4%B8%8E%E5%AD%A6%E4%B9%A0%E8%80%85%E5%85%88%E5%89%8D%E7%9F%A5%E8%AF%86%E7%BB%8F%E9%AA%8C%E5%AF%B9%E5%AD%A6%E4%B9%A0%E7%9A%84%E4%BA%A4%E4%BA%92%E5%BD%B1%E5%93%8D/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Using AR to Enhance Students’ Representational Fluency</title>
-      <link>https://example.com/project/ar-math/</link>
-      <pubDate>Sun, 15 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/ar-math/</guid>
-      <description>&lt;!-- 
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Jul. 2018 - Mar. 2019 (Principal Investigator: Dr. Xiao Hu)
-  &lt;/div&gt;
-&lt;/div&gt;
- --&gt;
-&lt;p&gt;🌟 Project Overview&lt;/p&gt;
-&lt;p&gt;This joint research project, conducted in collaboration with Columbia University, Beijing Normal University, and East China Normal University, investigates how augmented reality (AR) can enhance students’ representational fluency and self-efficacy in understanding linear functions. The project focuses on designing and evaluating AR applications to support mathematical concept formation and problem-solving skills.&lt;/p&gt;
-&lt;p&gt;🛠️ Key Responsibilities
-•	Developed 5 AR apps with varied design features to promote students’ understanding of linear functions.
-•	Conducted Design-Based Research (DBR) to iteratively refine the apps and assess their impact on student learning.
-•	Collected and analyzed data, including:
-•	Quantitative Analysis: Conducted ANOVA to examine differences in learning outcomes.
-•	Qualitative Analysis: Coded interviews and reflective journals to uncover patterns in students’ experiences.
-•	Co-authored papers to disseminate findings and insights from the study.&lt;/p&gt;
-&lt;p&gt;💡 Research Impact&lt;/p&gt;
-&lt;p&gt;This project demonstrates how leveraging AR can foster representational fluency and build students’ confidence in mathematical problem-solving. By combining innovative technology with evidence-based research, it contributes to the development of cutting-edge educational tools and pedagogical strategies.&lt;/p&gt;
-</description>
     </item>
     
     <item>
       <title>A Field Experiment on Music Preference during Learning</title>
-      <link>https://example.com/talk/citers19/</link>
+      <link>http://localhost:1313/talk/citers19/</link>
       <pubDate>Fri, 31 May 2019 12:20:00 +0000</pubDate>
-      <guid>https://example.com/talk/citers19/</guid>
+      <guid>http://localhost:1313/talk/citers19/</guid>
       <description>&lt;iframe src=&#34;slide.pdf&#34; width=&#34;100%&#34; height=&#34;450&#34;, style=&#34;border:1px solid black; margin-bottom: 50px;&#34;&gt;
 </description>
     </item>
     
     <item>
       <title>The Influence of Argumentation Strategy on Student&#39;s Web-Based Argumentation in Different Scientific Concepts</title>
-      <link>https://example.com/publication/jiao-2019-influence/</link>
+      <link>http://localhost:1313/publication/jiao-2019-influence/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/jiao-2019-influence/</guid>
+      <guid>http://localhost:1313/publication/jiao-2019-influence/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>基于计算思维培养的 STEM&#43; C 课程设计与应用</title>
-      <link>https://example.com/publication/%E7%84%A6%E6%96%B0%E6%9C%88-2019-%E5%9F%BA%E4%BA%8E%E8%AE%A1%E7%AE%97%E6%80%9D%E7%BB%B4%E5%9F%B9%E5%85%BB%E7%9A%84/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/%E7%84%A6%E6%96%B0%E6%9C%88-2019-%E5%9F%BA%E4%BA%8E%E8%AE%A1%E7%AE%97%E6%80%9D%E7%BB%B4%E5%9F%B9%E5%85%BB%E7%9A%84/</guid>
-      <description></description>
+      <title>Privacy Policy</title>
+      <link>http://localhost:1313/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/privacy/</guid>
+      <description>&lt;p&gt;Add your privacy policy here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Terms</title>
+      <link>http://localhost:1313/terms/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/terms/</guid>
+      <description>&lt;p&gt;Add your terms here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Emotion-Aware Music Information Retrieval Based on Physiological Signals and User Profile</title>
-      <link>https://example.com/talk/ismir17/</link>
+      <link>http://localhost:1313/talk/ismir17/</link>
       <pubDate>Fri, 27 Oct 2017 12:40:00 +0000</pubDate>
-      <guid>https://example.com/talk/ismir17/</guid>
+      <guid>http://localhost:1313/talk/ismir17/</guid>
       <description>&lt;iframe src=&#34;poster.pdf&#34; width=&#34;100%&#34; height=&#34;1000&#34;, style=&#34;border:1px solid black; margin-bottom: 50px;&#34;&gt;
 </description>
     </item>

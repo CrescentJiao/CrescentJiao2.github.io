@@ -1,16 +1,16 @@
 ---
-title: The Effect of Role Assignment on Students’ Collaborative Inquiry-based Learning
+title: The Effect of Role Assignment on Students' Collaborative Inquiry-based Learning
   in Augmented Reality Environment
 authors:
-- Xinyue Jiao
-- Zifeng Liu
-- Haitao Zhou
-- Su Cai
+- Jiao, Xinyue
+- Liu, Zifeng
+- Zhou, Haitao
+- Cai, Su
 date: '2022-01-01'
-publishDate: '2025-03-23T22:29:28.455921Z'
+publishDate: '2025-03-25T22:04:04.251906'
 publication_types:
 - paper-conference
-publication: '*2022 International Conference on Advanced Learning Technologies (ICALT)*'
+publication: 2022 International Conference on Advanced Learning Technologies (ICALT)
 doi: 10.1109/ICALT55010.2022.00110
 abstract: ''
 featured: false
@@ -22,9 +22,10 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
-image: 
+image:
   caption: ''
   focal_point: ''
   preview_only: false
 projects: []
 ---
+

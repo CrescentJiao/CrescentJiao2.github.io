@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Augmented Reality (AR) | Xinyue Jiao</title>
-    <link>https://example.com/tag/augmented-reality-ar/</link>
-      <atom:link href="https://example.com/tag/augmented-reality-ar/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tag/augmented-reality-ar/</link>
+      <atom:link href="http://localhost:1313/tag/augmented-reality-ar/index.xml" rel="self" type="application/rss+xml" />
     <description>Augmented Reality (AR)</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Augmented Reality (AR)</title>
-      <link>https://example.com/tag/augmented-reality-ar/</link>
+      <link>http://localhost:1313/tag/augmented-reality-ar/</link>
     </image>
     
     <item>
       <title>Collaborative Inquiry in AR Learning Environments</title>
-      <link>https://example.com/project/collaboration-in-arle/</link>
+      <link>http://localhost:1313/project/collaboration-in-arle/</link>
       <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/collaboration-in-arle/</guid>
+      <guid>http://localhost:1313/project/collaboration-in-arle/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -41,10 +41,37 @@
     </item>
     
     <item>
+      <title>Using AR to Enhance Students’ Representational Fluency</title>
+      <link>http://localhost:1313/project/ar-math/</link>
+      <pubDate>Wed, 15 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/ar-math/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Jul. 2021 - Mar. 2023 (Principal Investigator: Dr. Su Cai)
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;p&gt;🌟 Project Overview&lt;/p&gt;
+&lt;p&gt;This joint research project, conducted in collaboration with Columbia University, Beijing Normal University, and East China Normal University, investigates how augmented reality (AR) can enhance students’ representational fluency and self-efficacy in understanding linear functions. The project focuses on designing and evaluating AR applications to support mathematical concept formation and problem-solving skills.&lt;/p&gt;
+&lt;p&gt;🛠️ Key Responsibilities
+•	Developed 5 AR apps with varied design features to promote students’ understanding of linear functions.
+•	Conducted Design-Based Research (DBR) to iteratively refine the apps and assess their impact on student learning.
+•	Collected and analyzed data, including:
+•	Quantitative Analysis: Conducted ANOVA to examine differences in learning outcomes.
+•	Qualitative Analysis: Coded interviews and reflective journals to uncover patterns in students’ experiences.
+•	Co-authored papers to disseminate findings and insights from the study.&lt;/p&gt;
+&lt;p&gt;💡 Research Impact&lt;/p&gt;
+&lt;p&gt;This project demonstrates how leveraging AR can foster representational fluency and build students’ confidence in mathematical problem-solving. By combining innovative technology with evidence-based research, it contributes to the development of cutting-edge educational tools and pedagogical strategies.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>⛰️Exploring the contour lines</title>
-      <link>https://example.com/myapps/contour/</link>
+      <link>http://localhost:1313/myapps/contour/</link>
       <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/myapps/contour/</guid>
+      <guid>http://localhost:1313/myapps/contour/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -61,9 +88,9 @@ Adopted by one elementary schools in China&lt;/p&gt;
     
     <item>
       <title>🌍 Our Earth</title>
-      <link>https://example.com/myapps/ourearth/</link>
+      <link>http://localhost:1313/myapps/ourearth/</link>
       <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/myapps/ourearth/</guid>
+      <guid>http://localhost:1313/myapps/ourearth/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -80,9 +107,9 @@ Adopted by one elementary schools in China&lt;/p&gt;
     
     <item>
       <title>🌞 Mystery of solar altitude</title>
-      <link>https://example.com/myapps/solaraltitude/</link>
+      <link>http://localhost:1313/myapps/solaraltitude/</link>
       <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/myapps/solaraltitude/</guid>
+      <guid>http://localhost:1313/myapps/solaraltitude/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -99,9 +126,9 @@ Adopted by one elementary schools in China&lt;/p&gt;
     
     <item>
       <title>🏃Encounter and chase problems</title>
-      <link>https://example.com/myapps/beijing2/</link>
+      <link>http://localhost:1313/myapps/beijing2/</link>
       <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/myapps/beijing2/</guid>
+      <guid>http://localhost:1313/myapps/beijing2/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -118,9 +145,9 @@ Adopted by one elementary schools in China&lt;/p&gt;
     
     <item>
       <title>🐝Linear Functions</title>
-      <link>https://example.com/myapps/run/</link>
+      <link>http://localhost:1313/myapps/run/</link>
       <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/myapps/run/</guid>
+      <guid>http://localhost:1313/myapps/run/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -137,9 +164,9 @@ Adopted by one elementary schools in China&lt;/p&gt;
     
     <item>
       <title>🐝Segmentation Functions</title>
-      <link>https://example.com/myapps/bee/</link>
+      <link>http://localhost:1313/myapps/bee/</link>
       <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/myapps/bee/</guid>
+      <guid>http://localhost:1313/myapps/bee/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -156,9 +183,9 @@ Adopted by one elementary schools in China&lt;/p&gt;
     
     <item>
       <title>📝Linear Functions</title>
-      <link>https://example.com/myapps/beijing1/</link>
+      <link>http://localhost:1313/myapps/beijing1/</link>
       <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/myapps/beijing1/</guid>
+      <guid>http://localhost:1313/myapps/beijing1/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -175,9 +202,9 @@ Adopted by one elementary schools in China&lt;/p&gt;
     
     <item>
       <title>🚥The three primary colors of light&lt;</title>
-      <link>https://example.com/myapps/light1/</link>
+      <link>http://localhost:1313/myapps/light1/</link>
       <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/myapps/light1/</guid>
+      <guid>http://localhost:1313/myapps/light1/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -194,9 +221,9 @@ Adopted by one elementary schools in China&lt;/p&gt;
     
     <item>
       <title>Encounter and chase problems</title>
-      <link>https://example.com/myapps/mathzhuiji/</link>
+      <link>http://localhost:1313/myapps/mathzhuiji/</link>
       <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/myapps/mathzhuiji/</guid>
+      <guid>http://localhost:1313/myapps/mathzhuiji/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -213,9 +240,9 @@ Adopted by one elementary schools in China&lt;/p&gt;
     
     <item>
       <title>Intelligent Augmented Reality Learning Environment</title>
-      <link>https://example.com/project/intelligent-arle/</link>
+      <link>http://localhost:1313/project/intelligent-arle/</link>
       <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/intelligent-arle/</guid>
+      <guid>http://localhost:1313/project/intelligent-arle/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -237,9 +264,9 @@ Adopted by one elementary schools in China&lt;/p&gt;
     
     <item>
       <title>🕎 Dispersion of Light</title>
-      <link>https://example.com/myapps/light2/</link>
+      <link>http://localhost:1313/myapps/light2/</link>
       <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/myapps/light2/</guid>
+      <guid>http://localhost:1313/myapps/light2/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -256,9 +283,9 @@ Adopted by one elementary schools in China&lt;/p&gt;
     
     <item>
       <title>🧪 Diverse electrolytes</title>
-      <link>https://example.com/myapps/dianjiezhi/</link>
+      <link>http://localhost:1313/myapps/dianjiezhi/</link>
       <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/myapps/dianjiezhi/</guid>
+      <guid>http://localhost:1313/myapps/dianjiezhi/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -270,33 +297,6 @@ Adopted by one elementary schools in China&lt;/p&gt;
 &lt;p&gt;🌟 AR app Overview&lt;/p&gt;
 &lt;p&gt;Change the speed of the bees and record the time and distance the bees fly in real time.
 Adopted by one elementary schools in China&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Using AR to Enhance Students’ Representational Fluency</title>
-      <link>https://example.com/project/ar-math/</link>
-      <pubDate>Sun, 15 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/ar-math/</guid>
-      <description>&lt;!-- 
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Jul. 2018 - Mar. 2019 (Principal Investigator: Dr. Xiao Hu)
-  &lt;/div&gt;
-&lt;/div&gt;
- --&gt;
-&lt;p&gt;🌟 Project Overview&lt;/p&gt;
-&lt;p&gt;This joint research project, conducted in collaboration with Columbia University, Beijing Normal University, and East China Normal University, investigates how augmented reality (AR) can enhance students’ representational fluency and self-efficacy in understanding linear functions. The project focuses on designing and evaluating AR applications to support mathematical concept formation and problem-solving skills.&lt;/p&gt;
-&lt;p&gt;🛠️ Key Responsibilities
-•	Developed 5 AR apps with varied design features to promote students’ understanding of linear functions.
-•	Conducted Design-Based Research (DBR) to iteratively refine the apps and assess their impact on student learning.
-•	Collected and analyzed data, including:
-•	Quantitative Analysis: Conducted ANOVA to examine differences in learning outcomes.
-•	Qualitative Analysis: Coded interviews and reflective journals to uncover patterns in students’ experiences.
-•	Co-authored papers to disseminate findings and insights from the study.&lt;/p&gt;
-&lt;p&gt;💡 Research Impact&lt;/p&gt;
-&lt;p&gt;This project demonstrates how leveraging AR can foster representational fluency and build students’ confidence in mathematical problem-solving. By combining innovative technology with evidence-based research, it contributes to the development of cutting-edge educational tools and pedagogical strategies.&lt;/p&gt;
 </description>
     </item>
     

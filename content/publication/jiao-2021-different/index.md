@@ -1,19 +1,19 @@
 ---
-title: How Different Cognitive Style Groups Affect Learners’ Knowledge Construction
+title: How Different Cognitive Style Groups Affect Learners' Knowledge Construction
   in Collaborative Argumentation
 authors:
-- Xinyue Jiao
-- Changqiu Yi
-- Chunping Liu
-- Yong Xie
-- Ning Ma
+- Jiao, Xinyue
+- Yi, Changqiu
+- Liu, Chunping
+- Xie, Yong
+- Ma, Ning
 date: '2021-01-01'
-publishDate: '2025-03-23T22:29:28.459115Z'
+publishDate: '2025-03-25T22:04:04.255922'
 publication_types:
 - paper-conference
-publication: '*Proceedings of the 13th International Conference on Education Technology
-  and Computers*'
-doi: 10.1145/3498981.3498993
+publication: Proceedings of the 13th International Conference on Education Technology
+  and Computers
+doi: ''
 abstract: ''
 featured: false
 url_pdf: ''
@@ -24,9 +24,10 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
-image: 
+image:
   caption: ''
   focal_point: ''
   preview_only: false
 projects: []
 ---
+

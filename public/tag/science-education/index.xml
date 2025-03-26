@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Science Education | Xinyue Jiao</title>
-    <link>https://example.com/tag/science-education/</link>
-      <atom:link href="https://example.com/tag/science-education/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tag/science-education/</link>
+      <atom:link href="http://localhost:1313/tag/science-education/index.xml" rel="self" type="application/rss+xml" />
     <description>Science Education</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 15 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Science Education</title>
-      <link>https://example.com/tag/science-education/</link>
+      <link>http://localhost:1313/tag/science-education/</link>
     </image>
     
     <item>
       <title>Intelligent Augmented Reality Learning Environment</title>
-      <link>https://example.com/project/intelligent-arle/</link>
+      <link>http://localhost:1313/project/intelligent-arle/</link>
       <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/intelligent-arle/</guid>
+      <guid>http://localhost:1313/project/intelligent-arle/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;

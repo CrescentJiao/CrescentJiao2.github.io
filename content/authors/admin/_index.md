@@ -86,7 +86,7 @@ user_groups:
 
 Hello 👋 I am a PhD student at NYU Steinhardt's [ECT Program](https://steinhardt.nyu.edu/programs/educational-communication-and-technology), and a research assistant at Create Lab ([NYU-CREATE](https://create.nyu.edu/)). 
 
-I am interested in creating and designing, learning analytics and formative assessment. Sepcifically, Xinyue is passionate about creating educational applications that integrate advanced technologies, such as AR/AR, generative AI, and using various methods, including AI and multimodal learning analytics, to understand and enhance student cognition and interactions within collaborative VR/AR learning environments.
+I am interested in creating and designing, learning analytics and formative assessment. Sepcifically, Xinyue is passionate about creating educational applications that integrate advanced technologies, such as VR/AR, generative AI, and using various methods, including AI and multimodal learning analytics, to understand and enhance student cognition and interactions within collaborative VR/AR learning environments.
 
 Before joining NYU, I obtained my master degree in Educational Technology at Beijing Normal University (BNU) (北京师范大学)</a>. I designed AR applications for K-12 education and conducted research on improving learners' experiences at [AR/VR+Education Lab]("https://www.researchgate.net/lab/VR-AR-Education-Lab-Su-Cai). 
 

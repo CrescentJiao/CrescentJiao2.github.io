@@ -2,14 +2,14 @@
 title: The Influence of Argumentation Strategy on Student's Web-Based Argumentation
   in Different Scientific Concepts
 authors:
-- Xinyue Jiao
-- Yu-Ren Lin
+- Jiao, Xinyue
+- Lin, Yu-Ren
 date: '2019-01-01'
-publishDate: '2025-03-23T22:29:28.465667Z'
+publishDate: '2025-03-25T22:04:04.253138'
 publication_types:
 - paper-conference
-publication: '*2019 International Symposium on Educational Technology (ISET)*'
-doi: 10.1109/ISET.2019.00032
+publication: 2019 International Symposium on Educational Technology (ISET)
+doi: ''
 abstract: ''
 featured: false
 url_pdf: ''
@@ -20,9 +20,10 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
-image: 
+image:
   caption: ''
   focal_point: ''
   preview_only: false
 projects: []
 ---
+

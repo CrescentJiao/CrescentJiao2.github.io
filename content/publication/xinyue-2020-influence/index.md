@@ -1,16 +1,16 @@
 ---
 title: The Influence of Augmented Reality Embedding Cognitive Scaffolds on Elementary
-  Students’ Scientific Learning
+  Students' Scientific Learning
 authors:
-- JIAO Xinyue
-- LIU Zifeng
-- CAI Su
+- Xinyue, JIAO
+- Zifeng, LIU
+- Su, CAI
 date: '2020-01-01'
-publishDate: '2025-03-23T22:29:28.502553Z'
+publishDate: '2025-03-25T22:04:04.244693'
 publication_types:
 - paper-conference
-publication: '*International Conference on Computers in Education*'
----
+publication: International Conference on Computers in Education
+doi: ''
 abstract: ''
 featured: false
 url_pdf: ''
@@ -27,3 +27,4 @@ image:
   preview_only: false
 projects: []
 ---
+

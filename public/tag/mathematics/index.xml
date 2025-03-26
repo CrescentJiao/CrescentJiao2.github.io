@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mathematics | Xinyue Jiao</title>
-    <link>https://example.com/tag/mathematics/</link>
-      <atom:link href="https://example.com/tag/mathematics/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tag/mathematics/</link>
+      <atom:link href="http://localhost:1313/tag/mathematics/index.xml" rel="self" type="application/rss+xml" />
     <description>Mathematics</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 15 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Mathematics</title>
-      <link>https://example.com/tag/mathematics/</link>
+      <link>http://localhost:1313/tag/mathematics/</link>
     </image>
     
     <item>
       <title>🏃Encounter and chase problems</title>
-      <link>https://example.com/myapps/beijing2/</link>
+      <link>http://localhost:1313/myapps/beijing2/</link>
       <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/myapps/beijing2/</guid>
+      <guid>http://localhost:1313/myapps/beijing2/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -33,9 +33,9 @@ Adopted by one elementary schools in China&lt;/p&gt;
     
     <item>
       <title>🐝Linear Functions</title>
-      <link>https://example.com/myapps/run/</link>
+      <link>http://localhost:1313/myapps/run/</link>
       <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/myapps/run/</guid>
+      <guid>http://localhost:1313/myapps/run/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -52,9 +52,9 @@ Adopted by one elementary schools in China&lt;/p&gt;
     
     <item>
       <title>🐝Segmentation Functions</title>
-      <link>https://example.com/myapps/bee/</link>
+      <link>http://localhost:1313/myapps/bee/</link>
       <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/myapps/bee/</guid>
+      <guid>http://localhost:1313/myapps/bee/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -71,9 +71,9 @@ Adopted by one elementary schools in China&lt;/p&gt;
     
     <item>
       <title>📝Linear Functions</title>
-      <link>https://example.com/myapps/beijing1/</link>
+      <link>http://localhost:1313/myapps/beijing1/</link>
       <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/myapps/beijing1/</guid>
+      <guid>http://localhost:1313/myapps/beijing1/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -90,9 +90,9 @@ Adopted by one elementary schools in China&lt;/p&gt;
     
     <item>
       <title>Encounter and chase problems</title>
-      <link>https://example.com/myapps/mathzhuiji/</link>
+      <link>http://localhost:1313/myapps/mathzhuiji/</link>
       <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/myapps/mathzhuiji/</guid>
+      <guid>http://localhost:1313/myapps/mathzhuiji/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;

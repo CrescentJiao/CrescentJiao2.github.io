@@ -2,13 +2,27 @@
 import os
 import re
 
-def extract_bib_entry(bib_content, identifier):
-    # 查找匹配的 BibTeX 条目
+def extract_field_from_bib(entry, field):
+    match = re.search(rf'{field}\s*=\s*{{([^}}]*)}}', entry)
+    if match:
+        return match.group(1)
+    return None
+
+def get_entry_from_bib(bib_content, identifier):
     entries = re.split(r'(?=@)', bib_content)
     for entry in entries:
         if identifier in entry:
             return entry.strip()
     return None
+
+def create_cite_bib(entry, output_dir):
+    """为单个出版物创建 cite.bib 文件"""
+    # 直接在文章文件夹中创建 cite.bib
+    output_path = os.path.join(output_dir, 'cite.bib')
+    
+    # 写入文件
+    with open(output_path, 'w', encoding='utf-8') as f:
+        f.write(entry)
 
 def main():
     # 设置工作目录
@@ -22,17 +36,13 @@ def main():
     # 处理每个出版物文件夹
     for entry in os.scandir('content/publication'):
         if entry.is_dir():
-            cite_bib_path = os.path.join(entry.path, 'cite.bib')
+            print(f"Creating cite.bib for {entry.path}...")
             identifier = entry.name.replace('-', '')  # 移除标识符中的连字符
-            
-            # 提取对应的 BibTeX 条目
-            bib_entry = extract_bib_entry(bib_content, identifier)
+            bib_entry = get_entry_from_bib(bib_content, identifier)
             
             if bib_entry:
-                print(f"Creating cite.bib for {entry.path}...")
-                with open(cite_bib_path, 'w', encoding='utf-8') as f:
-                    f.write(bib_entry)
-                print(f"Created {cite_bib_path}")
+                create_cite_bib(bib_entry, entry.path)
+                print(f"Created {entry.path}/cite.bib")
             else:
                 print(f"No BibTeX entry found for {identifier}")
 

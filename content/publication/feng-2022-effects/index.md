@@ -1,17 +1,17 @@
 ---
-title: The Effects of AR Learning Environment to Preschool Children’s Numerical Cognition
+title: The Effects of AR Learning Environment to Preschool Children's Numerical Cognition
 authors:
-- Zhaoxin Feng
-- Chenxi Gong
-- Xinyue Jiao
-- Zifeng Liu
-- Su Cai
+- Feng, Zhaoxin
+- Gong, Chenxi
+- Jiao, Xinyue
+- Liu, Zifeng
+- Cai, Su
 date: '2022-01-01'
-publishDate: '2025-03-23T22:29:28.440631Z'
+publishDate: '2025-03-25T22:04:04.245600'
 publication_types:
 - paper-conference
-publication: '*2022 International Conference on Advanced Learning Technologies (ICALT)*'
-doi: 10.1109/ICALT55010.2022.00111
+publication: 2022 International Conference on Advanced Learning Technologies (ICALT)
+doi: ''
 abstract: ''
 featured: false
 url_pdf: ''
@@ -22,9 +22,10 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
-image: 
+image:
   caption: ''
   focal_point: ''
   preview_only: false
 projects: []
 ---
+

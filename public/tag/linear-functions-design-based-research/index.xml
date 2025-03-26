@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Linear Functions, Design-Based Research | Xinyue Jiao</title>
-    <link>https://example.com/tag/linear-functions-design-based-research/</link>
-      <atom:link href="https://example.com/tag/linear-functions-design-based-research/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tag/linear-functions-design-based-research/</link>
+      <atom:link href="http://localhost:1313/tag/linear-functions-design-based-research/index.xml" rel="self" type="application/rss+xml" />
     <description>Linear Functions, Design-Based Research</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 15 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 15 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Linear Functions, Design-Based Research</title>
-      <link>https://example.com/tag/linear-functions-design-based-research/</link>
+      <link>http://localhost:1313/tag/linear-functions-design-based-research/</link>
     </image>
     
     <item>
       <title>Using AR to Enhance Students’ Representational Fluency</title>
-      <link>https://example.com/project/ar-math/</link>
-      <pubDate>Sun, 15 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/ar-math/</guid>
+      <link>http://localhost:1313/project/ar-math/</link>
+      <pubDate>Wed, 15 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/ar-math/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
-    Jul. 2018 - Mar. 2019 (Principal Investigator: Dr. Xiao Hu)
+    Jul. 2021 - Mar. 2023 (Principal Investigator: Dr. Su Cai)
   &lt;/div&gt;
 &lt;/div&gt;
  --&gt;
