@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | Xinyue Jiao</title>
-    <link>http://localhost:1313/authors/authors/</link>
-      <atom:link href="http://localhost:1313/authors/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:56790/authors/authors/</link>
+      <atom:link href="http://localhost:56790/authors/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 31 May 2019 12:20:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>http://localhost:56790/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Authors</title>
-      <link>http://localhost:1313/authors/authors/</link>
+      <link>http://localhost:56790/authors/authors/</link>
     </image>
     
     <item>
       <title>Xinyue Jiao</title>
-      <link>http://localhost:1313/authors/admin/</link>
+      <link>http://localhost:56790/authors/admin/</link>
       <pubDate>Fri, 31 May 2019 12:20:00 +0000</pubDate>
-      <guid>http://localhost:1313/authors/admin/</guid>
+      <guid>http://localhost:56790/authors/admin/</guid>
       <description>&lt;p&gt;Hello 👋 I am a PhD student at NYU Steinhardt&amp;rsquo;s &lt;a href=&#34;https://steinhardt.nyu.edu/programs/educational-communication-and-technology&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ECT Program&lt;/a&gt;, and a research assistant at Create Lab (&lt;a href=&#34;https://create.nyu.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NYU-CREATE&lt;/a&gt;).&lt;/p&gt;
 &lt;p&gt;I am interested in creating and designing, learning analytics and formative assessment. Sepcifically, Xinyue is passionate about creating educational applications that integrate advanced technologies, such as VR/AR, generative AI, and using various methods, including AI and multimodal learning analytics, to understand and enhance student cognition and interactions within collaborative VR/AR learning environments.&lt;/p&gt;
 &lt;p&gt;Before joining NYU, I obtained my master degree in Educational Technology at Beijing Normal University (BNU) (北京师范大学)&lt;/a&gt;. I designed AR applications for K-12 education and conducted research on improving learners&amp;rsquo; experiences at &lt;a href=&#34;%22https://www.researchgate.net/lab/VR-AR-Education-Lab-Su-Cai&#34;&gt;AR/VR+Education Lab&lt;/a&gt;.&lt;/p&gt;

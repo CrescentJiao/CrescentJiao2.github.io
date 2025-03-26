@@ -110,20 +110,16 @@ security:
   # Allow frame for embedding speaker notes in slides
   allow_frame: true
 
+# Publications configuration
 publications:
   date_format: "January 2006"
   citation_style: "apa"
-
-# 配置BIB导入
-import_from_bibtex:
+  import_from_bibtex:
     enable: true
     file: "content/publication/cite.bib"
-    # 可选：过滤器，例如只导入类型为'article'的条目
-    # filters:
-    #   publication_type: "article"
 
+# Global parameters
 params:
   custom_css: ["css/custom.css"]
-params:
   publications:
     citation_style: "apa"

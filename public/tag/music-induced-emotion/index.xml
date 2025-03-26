@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Music-Induced Emotion | Xinyue Jiao</title>
-    <link>http://localhost:1313/tag/music-induced-emotion/</link>
-      <atom:link href="http://localhost:1313/tag/music-induced-emotion/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:56790/tag/music-induced-emotion/</link>
+      <atom:link href="http://localhost:56790/tag/music-induced-emotion/index.xml" rel="self" type="application/rss+xml" />
     <description>Music-Induced Emotion</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 27 Oct 2017 12:40:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>http://localhost:56790/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Music-Induced Emotion</title>
-      <link>http://localhost:1313/tag/music-induced-emotion/</link>
+      <link>http://localhost:56790/tag/music-induced-emotion/</link>
     </image>
     
     <item>
       <title>Emotion-Aware Music Information Retrieval Based on Physiological Signals and User Profile</title>
-      <link>http://localhost:1313/talk/ismir17/</link>
+      <link>http://localhost:56790/talk/ismir17/</link>
       <pubDate>Fri, 27 Oct 2017 12:40:00 +0000</pubDate>
-      <guid>http://localhost:1313/talk/ismir17/</guid>
+      <guid>http://localhost:56790/talk/ismir17/</guid>
       <description>&lt;iframe src=&#34;poster.pdf&#34; width=&#34;100%&#34; height=&#34;1000&#34;, style=&#34;border:1px solid black; margin-bottom: 50px;&#34;&gt;
 </description>
     </item>
