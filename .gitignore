@@ -1,0 +1,23 @@
+# macOS system files
+.DS_Store
+**/.DS_Store
+
+# Hugo generated files
+public/
+resources/
+
+# Temporary files
+*.log
+*.swp
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace 

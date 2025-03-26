@@ -12,4 +12,20 @@ publication_types:
 - paper-conference
 publication: '*Proceedings of the 56th ACM Technical Symposium on Computer Science
   Education V. 1*'
+doi: 10.1145/3626252.3630853
+abstract: ''
+featured: false
+url_pdf: ''
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
+image: 
+  caption: ''
+  focal_point: ''
+  preview_only: false
+projects: []
 ---

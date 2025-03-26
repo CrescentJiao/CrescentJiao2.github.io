@@ -6,13 +6,13 @@ tags:
 -  Representational Fluency 
 -  Linear Functions, Design-Based Research
 
-date: "2019-09-15T00:00:00Z"
+date: "2021-09-15T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: Experiment design
+  caption: AR -math
   focal_point: Smart
 
 links:

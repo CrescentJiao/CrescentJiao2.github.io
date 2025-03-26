@@ -13,3 +13,19 @@ publication_types:
 publication: '*Proceedings of the 17th International Conference on Educational Data
   Mining*'
 ---
+abstract: ''
+featured: false
+url_pdf: ''
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+projects: []
+---
