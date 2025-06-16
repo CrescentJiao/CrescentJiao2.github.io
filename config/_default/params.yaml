@@ -5,9 +5,9 @@
 
 # Appearance
 appearance:
-  theme_day: custom_theme
-  theme_night: custom_theme
-  font: custom_font
+  theme_day: custom_theme #ocean 
+  theme_night: custom_theme 
+  font: custom_font #Modern, Classic, Minimal
   font_size: M
 
 # SEO
@@ -30,11 +30,11 @@ marketing:
 header:
   navbar:
     enable: true
-    align: l
-    show_logo: false
+    align: c
+    show_logo: true
     show_language: true
     show_day_night: true
-    show_search: true
+    show_search: false
     highlight_active_link: true
 
 # Site footer
@@ -63,7 +63,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://crescentjiao.github.io/CrescentJiao2.github.io/'
     content_dir: content
     branch: main
   avatar:

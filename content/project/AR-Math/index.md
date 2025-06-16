@@ -22,8 +22,8 @@ links:
 #   url: media/LAK19/p101-hu.pdf
 # - name: LAK'19 Presentation
 #   url: media/LAK19/slide.pdf
-- name: Experience design
-  url: 
+#- name: Experience design
+#  url: 
 
 # url_code: ""
 # url_pdf: ""

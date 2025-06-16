@@ -21,12 +21,12 @@ image:
 links:
 # - icon: twitter
 #  icon_pack: fab
-- name: Project Website
-  url: 
-- name: PI-Dr Su Cai
-  url: https://www.researchgate.net/profile/Su-Cai
-- name: AR apps video
-  url_video: https://www.youtube.com/watch?v=AFe8amnUDw0
+#- name: Project Website
+#  url: 
+#- name: PI-Dr Su Cai
+ # url: https://www.researchgate.net/profile/Su-Cai
+- name: AR demo
+  url: https://www.youtube.com/watch?v=AFe8amnUDw0
 # url_pdf: ""
 # url_slides: ""
 # Slides (optional).

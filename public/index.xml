@@ -2,61 +2,85 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Xinyue Jiao</title>
-    <link>http://localhost:56790/</link>
-      <atom:link href="http://localhost:56790/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/</link>
+      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <description>Xinyue Jiao</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:56790/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>http://localhost:1313/media/icon_hu_a7e10fd8c8633d1e.png</url>
       <title>Xinyue Jiao</title>
-      <link>http://localhost:56790/</link>
+      <link>http://localhost:1313/</link>
     </image>
     
     <item>
+      <title>STEM-XR for Equity</title>
+      <link>http://localhost:1313/project/stem_xr/</link>
+      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/stem_xr/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Aug. 2020 - Present (Principal Investigator: Dr. Xiao Hu)
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;p&gt;🌟 Project Overview&lt;/p&gt;
+&lt;p&gt;The STEM-XR4E project aims to support teachers in delivering low-cost, hands-on physics learning experiences by leveraging everyday physical materials enhanced with emerging technologies. Integrating exploratory inquiry, extended/mixed reality (XR), multimodal sensing, and generative AI, the project enables students to engage in authentic scientific practices. By using accessible tools and real-world setups, students can visualize and experiment with core physics concepts—such as force, motion, and angles—in an interactive and immersive way, fostering deeper conceptual understanding and active learning.&lt;/p&gt;
+&lt;p&gt;🛠️ Key Responsibilities
+•	Develop design ideas for several different common STEM topics in High Schools (from Common Core Standards) that would benefit from an XR experience
+•	Work with teachers to refine ideas
+•	Create design ideas for AI-based XR simulations to address some of these topics&lt;/p&gt;
+&lt;p&gt;🚀 Research Impact&lt;/p&gt;
+&lt;p&gt;STEM-XR4E advances the field of technology-enhanced STEM education by demonstrating how low-cost, embodied, and immersive experiences can democratize access to high-quality STEM learning. It bridges classroom practice and cutting-edge tools—such as XR, generative AI, and multimodal sensing—to support inquiry-based, data-informed teaching&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Detecting AI-Generated Pseudocode in High School Online Programming Courses Using an Explainable Approach</title>
-      <link>http://localhost:56790/publication/liu-2025-detecting/</link>
+      <link>http://localhost:1313/publication/liu-2025-detecting/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:56790/publication/liu-2025-detecting/</guid>
+      <guid>http://localhost:1313/publication/liu-2025-detecting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>What are the differences between student and ChatGPT-generated pseudocode? Detecting AI-generated pseudocode in high school programming using explainable machine learning</title>
-      <link>http://localhost:56790/publication/liu-2025-differences/</link>
+      <link>http://localhost:1313/publication/liu-2025-differences/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:56790/publication/liu-2025-differences/</guid>
+      <guid>http://localhost:1313/publication/liu-2025-differences/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Enhancing AR-based learning environments for STEM education: A design-based study on design features, kinematics learning and mathematics self-efficacy</title>
-      <link>http://localhost:56790/publication/li-2024-enhancing/</link>
+      <link>http://localhost:1313/publication/li-2024-enhancing/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:56790/publication/li-2024-enhancing/</guid>
+      <guid>http://localhost:1313/publication/li-2024-enhancing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fair Prediction of Students&#39; Summative Performance Changes Using Online Learning Behavior Data</title>
-      <link>http://localhost:56790/publication/liu-2024-fair/</link>
+      <link>http://localhost:1313/publication/liu-2024-fair/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:56790/publication/liu-2024-fair/</guid>
+      <guid>http://localhost:1313/publication/liu-2024-fair/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How ai assisted k-12 computer science education: A systematic review</title>
-      <link>http://localhost:56790/publication/liu-2024-ai/</link>
+      <link>http://localhost:1313/publication/liu-2024-ai/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:56790/publication/liu-2024-ai/</guid>
+      <guid>http://localhost:1313/publication/liu-2024-ai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Collaborative Inquiry in AR Learning Environments</title>
-      <link>http://localhost:56790/project/collaboration-in-arle/</link>
+      <link>http://localhost:1313/project/collaboration-in-arle/</link>
       <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:56790/project/collaboration-in-arle/</guid>
+      <guid>http://localhost:1313/project/collaboration-in-arle/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -82,57 +106,57 @@
     
     <item>
       <title>Conceptions of learning science among elementary school students in AR learning environment: A case study of &#34;The Magic Sound&#34;</title>
-      <link>http://localhost:56790/publication/cai-2022-conceptions/</link>
+      <link>http://localhost:1313/publication/cai-2022-conceptions/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:56790/publication/cai-2022-conceptions/</guid>
+      <guid>http://localhost:1313/publication/cai-2022-conceptions/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exploring the argumentation characteristics in SSI video discussion area of online video learning website</title>
-      <link>http://localhost:56790/publication/jiao-2022-exploring/</link>
+      <link>http://localhost:1313/publication/jiao-2022-exploring/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:56790/publication/jiao-2022-exploring/</guid>
+      <guid>http://localhost:1313/publication/jiao-2022-exploring/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Open another door to education—applications, challenges and perspectives of the educational Metaverse</title>
-      <link>http://localhost:56790/publication/cai-2022-open/</link>
+      <link>http://localhost:1313/publication/cai-2022-open/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:56790/publication/cai-2022-open/</guid>
+      <guid>http://localhost:1313/publication/cai-2022-open/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Effect of Role Assignment on Students&#39; Collaborative Inquiry-based Learning in Augmented Reality Environment</title>
-      <link>http://localhost:56790/publication/jiao-2022-effect/</link>
+      <link>http://localhost:1313/publication/jiao-2022-effect/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:56790/publication/jiao-2022-effect/</guid>
+      <guid>http://localhost:1313/publication/jiao-2022-effect/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Effects of AR Learning Environment to Preschool Children&#39;s Numerical Cognition</title>
-      <link>http://localhost:56790/publication/feng-2022-effects/</link>
+      <link>http://localhost:1313/publication/feng-2022-effects/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:56790/publication/feng-2022-effects/</guid>
+      <guid>http://localhost:1313/publication/feng-2022-effects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using augmented reality to enhance students&#39; representational fluency: The case of linear functions</title>
-      <link>http://localhost:56790/publication/li-2022-using/</link>
+      <link>http://localhost:1313/publication/li-2022-using/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:56790/publication/li-2022-using/</guid>
+      <guid>http://localhost:1313/publication/li-2022-using/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using AR to Enhance Students’ Representational Fluency</title>
-      <link>http://localhost:56790/project/ar-math/</link>
+      <link>http://localhost:1313/project/ar-math/</link>
       <pubDate>Wed, 15 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:56790/project/ar-math/</guid>
+      <guid>http://localhost:1313/project/ar-math/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -157,33 +181,33 @@
     
     <item>
       <title>AR learning environment integrated with EIA inquiry model: Enhancing scientific literacy and reducing cognitive load of students</title>
-      <link>http://localhost:56790/publication/yang-2021-ar/</link>
+      <link>http://localhost:1313/publication/yang-2021-ar/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:56790/publication/yang-2021-ar/</guid>
+      <guid>http://localhost:1313/publication/yang-2021-ar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Effects of Augmented Reality on Students&#39; Online Physics Learning</title>
-      <link>http://localhost:56790/publication/zifeng-2021-effects/</link>
+      <link>http://localhost:1313/publication/zifeng-2021-effects/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:56790/publication/zifeng-2021-effects/</guid>
+      <guid>http://localhost:1313/publication/zifeng-2021-effects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How Different Cognitive Style Groups Affect Learners&#39; Knowledge Construction in Collaborative Argumentation</title>
-      <link>http://localhost:56790/publication/jiao-2021-different/</link>
+      <link>http://localhost:1313/publication/jiao-2021-different/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:56790/publication/jiao-2021-different/</guid>
+      <guid>http://localhost:1313/publication/jiao-2021-different/</guid>
       <description></description>
     </item>
     
     <item>
       <title>⛰️Exploring the contour lines</title>
-      <link>http://localhost:56790/myapps/contour/</link>
+      <link>http://localhost:1313/portfolio/contour/</link>
       <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:56790/myapps/contour/</guid>
+      <guid>http://localhost:1313/portfolio/contour/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -192,17 +216,14 @@
   &lt;/div&gt;
 &lt;/div&gt;
  --&gt;
-&lt;p&gt;🌟 AR app Overview&lt;/p&gt;
-&lt;p&gt;Change the speed of the bees and record the time and distance the bees fly in real time.
-Adopted by one elementary schools in China&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>🌍 Our Earth</title>
-      <link>http://localhost:56790/myapps/ourearth/</link>
+      <link>http://localhost:1313/portfolio/ourearth/</link>
       <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:56790/myapps/ourearth/</guid>
+      <guid>http://localhost:1313/portfolio/ourearth/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -211,17 +232,14 @@ Adopted by one elementary schools in China&lt;/p&gt;
   &lt;/div&gt;
 &lt;/div&gt;
  --&gt;
-&lt;p&gt;🌟 AR app Overview&lt;/p&gt;
-&lt;p&gt;Change the speed of the bees and record the time and distance the bees fly in real time.
-Adopted by one elementary schools in China&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>🌞 Mystery of solar altitude</title>
-      <link>http://localhost:56790/myapps/solaraltitude/</link>
+      <link>http://localhost:1313/portfolio/solaraltitude/</link>
       <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:56790/myapps/solaraltitude/</guid>
+      <guid>http://localhost:1313/portfolio/solaraltitude/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -230,17 +248,14 @@ Adopted by one elementary schools in China&lt;/p&gt;
   &lt;/div&gt;
 &lt;/div&gt;
  --&gt;
-&lt;p&gt;🌟 AR app Overview&lt;/p&gt;
-&lt;p&gt;Change the speed of the bees and record the time and distance the bees fly in real time.
-Adopted by one elementary schools in China&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>🏃Encounter and chase problems</title>
-      <link>http://localhost:56790/myapps/beijing2/</link>
+      <link>http://localhost:1313/portfolio/beijing2/</link>
       <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:56790/myapps/beijing2/</guid>
+      <guid>http://localhost:1313/portfolio/beijing2/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -249,17 +264,14 @@ Adopted by one elementary schools in China&lt;/p&gt;
   &lt;/div&gt;
 &lt;/div&gt;
  --&gt;
-&lt;p&gt;🌟 AR app Overview&lt;/p&gt;
-&lt;p&gt;Change the speed of the bees and record the time and distance the bees fly in real time.
-Adopted by one elementary schools in China&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>🐝Linear Functions</title>
-      <link>http://localhost:56790/myapps/run/</link>
+      <link>http://localhost:1313/portfolio/run/</link>
       <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:56790/myapps/run/</guid>
+      <guid>http://localhost:1313/portfolio/run/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -268,17 +280,14 @@ Adopted by one elementary schools in China&lt;/p&gt;
   &lt;/div&gt;
 &lt;/div&gt;
  --&gt;
-&lt;p&gt;🌟 AR app Overview&lt;/p&gt;
-&lt;p&gt;Change the speed of the bees and record the time and distance the bees fly in real time.
-Adopted by one elementary schools in China&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>🐝Segmentation Functions</title>
-      <link>http://localhost:56790/myapps/bee/</link>
+      <link>http://localhost:1313/portfolio/bee/</link>
       <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:56790/myapps/bee/</guid>
+      <guid>http://localhost:1313/portfolio/bee/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -287,17 +296,14 @@ Adopted by one elementary schools in China&lt;/p&gt;
   &lt;/div&gt;
 &lt;/div&gt;
  --&gt;
-&lt;p&gt;🌟 AR app Overview&lt;/p&gt;
-&lt;p&gt;Change the speed of the bees and record the time and distance the bees fly in real time.
-Adopted by one elementary schools in China&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>📝Linear Functions</title>
-      <link>http://localhost:56790/myapps/beijing1/</link>
+      <link>http://localhost:1313/portfolio/beijing1/</link>
       <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:56790/myapps/beijing1/</guid>
+      <guid>http://localhost:1313/portfolio/beijing1/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -306,17 +312,14 @@ Adopted by one elementary schools in China&lt;/p&gt;
   &lt;/div&gt;
 &lt;/div&gt;
  --&gt;
-&lt;p&gt;🌟 AR app Overview&lt;/p&gt;
-&lt;p&gt;Change the speed of the bees and record the time and distance the bees fly in real time.
-Adopted by one elementary schools in China&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>🚥The three primary colors of light&lt;</title>
-      <link>http://localhost:56790/myapps/light1/</link>
+      <title>🚥The three primary colors of light</title>
+      <link>http://localhost:1313/portfolio/light1/</link>
       <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:56790/myapps/light1/</guid>
+      <guid>http://localhost:1313/portfolio/light1/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -325,17 +328,14 @@ Adopted by one elementary schools in China&lt;/p&gt;
   &lt;/div&gt;
 &lt;/div&gt;
  --&gt;
-&lt;p&gt;🌟 AR app Overview&lt;/p&gt;
-&lt;p&gt;Change the speed of the bees and record the time and distance the bees fly in real time.
-Adopted by one elementary schools in China&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Encounter and chase problems</title>
-      <link>http://localhost:56790/myapps/mathzhuiji/</link>
+      <link>http://localhost:1313/portfolio/mathzhuiji/</link>
       <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:56790/myapps/mathzhuiji/</guid>
+      <guid>http://localhost:1313/portfolio/mathzhuiji/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -344,17 +344,14 @@ Adopted by one elementary schools in China&lt;/p&gt;
   &lt;/div&gt;
 &lt;/div&gt;
  --&gt;
-&lt;p&gt;🌟 AR app Overview&lt;/p&gt;
-&lt;p&gt;Change the speed of the bees and record the time and distance the bees fly in real time.
-Adopted by one elementary schools in China&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Intelligent Augmented Reality Learning Environment</title>
-      <link>http://localhost:56790/project/intelligent-arle/</link>
+      <link>http://localhost:1313/project/intelligent-arle/</link>
       <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:56790/project/intelligent-arle/</guid>
+      <guid>http://localhost:1313/project/intelligent-arle/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -376,9 +373,9 @@ Adopted by one elementary schools in China&lt;/p&gt;
     
     <item>
       <title>🕎 Dispersion of Light</title>
-      <link>http://localhost:56790/myapps/light2/</link>
+      <link>http://localhost:1313/portfolio/light2/</link>
       <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:56790/myapps/light2/</guid>
+      <guid>http://localhost:1313/portfolio/light2/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -387,17 +384,14 @@ Adopted by one elementary schools in China&lt;/p&gt;
   &lt;/div&gt;
 &lt;/div&gt;
  --&gt;
-&lt;p&gt;🌟 AR app Overview&lt;/p&gt;
-&lt;p&gt;Change the speed of the bees and record the time and distance the bees fly in real time.
-Adopted by one elementary schools in China&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>🧪 Diverse electrolytes</title>
-      <link>http://localhost:56790/myapps/dianjiezhi/</link>
+      <link>http://localhost:1313/portfolio/dianjiezhi/</link>
       <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:56790/myapps/dianjiezhi/</guid>
+      <guid>http://localhost:1313/portfolio/dianjiezhi/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -406,60 +400,75 @@ Adopted by one elementary schools in China&lt;/p&gt;
   &lt;/div&gt;
 &lt;/div&gt;
  --&gt;
-&lt;p&gt;🌟 AR app Overview&lt;/p&gt;
-&lt;p&gt;Change the speed of the bees and record the time and distance the bees fly in real time.
-Adopted by one elementary schools in China&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>The Influence of Augmented Reality Embedding Cognitive Scaffolds on Elementary Students&#39; Scientific Learning</title>
-      <link>http://localhost:56790/publication/xinyue-2020-influence/</link>
+      <link>http://localhost:1313/publication/xinyue-2020-influence/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:56790/publication/xinyue-2020-influence/</guid>
+      <guid>http://localhost:1313/publication/xinyue-2020-influence/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Field Experiment on Music Preference during Learning</title>
-      <link>http://localhost:56790/talk/citers19/</link>
+      <link>http://localhost:1313/featured/citers19/</link>
       <pubDate>Fri, 31 May 2019 12:20:00 +0000</pubDate>
-      <guid>http://localhost:56790/talk/citers19/</guid>
+      <guid>http://localhost:1313/featured/citers19/</guid>
+      <description>&lt;iframe src=&#34;slide.pdf&#34; width=&#34;100%&#34; height=&#34;450&#34;, style=&#34;border:1px solid black; margin-bottom: 50px;&#34;&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Field Experiment on Music Preference during Learning</title>
+      <link>http://localhost:1313/talk/citers19/</link>
+      <pubDate>Fri, 31 May 2019 12:20:00 +0000</pubDate>
+      <guid>http://localhost:1313/talk/citers19/</guid>
       <description>&lt;iframe src=&#34;slide.pdf&#34; width=&#34;100%&#34; height=&#34;450&#34;, style=&#34;border:1px solid black; margin-bottom: 50px;&#34;&gt;
 </description>
     </item>
     
     <item>
       <title>The Influence of Argumentation Strategy on Student&#39;s Web-Based Argumentation in Different Scientific Concepts</title>
-      <link>http://localhost:56790/publication/jiao-2019-influence/</link>
+      <link>http://localhost:1313/publication/jiao-2019-influence/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:56790/publication/jiao-2019-influence/</guid>
+      <guid>http://localhost:1313/publication/jiao-2019-influence/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Privacy Policy</title>
-      <link>http://localhost:56790/privacy/</link>
+      <link>http://localhost:1313/privacy/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>http://localhost:56790/privacy/</guid>
+      <guid>http://localhost:1313/privacy/</guid>
       <description>&lt;p&gt;Add your privacy policy here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Terms</title>
-      <link>http://localhost:56790/terms/</link>
+      <link>http://localhost:1313/terms/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>http://localhost:56790/terms/</guid>
+      <guid>http://localhost:1313/terms/</guid>
       <description>&lt;p&gt;Add your terms here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Emotion-Aware Music Information Retrieval Based on Physiological Signals and User Profile</title>
-      <link>http://localhost:56790/talk/ismir17/</link>
+      <link>http://localhost:1313/featured/ismir17/</link>
       <pubDate>Fri, 27 Oct 2017 12:40:00 +0000</pubDate>
-      <guid>http://localhost:56790/talk/ismir17/</guid>
+      <guid>http://localhost:1313/featured/ismir17/</guid>
+      <description>&lt;iframe src=&#34;poster.pdf&#34; width=&#34;100%&#34; height=&#34;1000&#34;, style=&#34;border:1px solid black; margin-bottom: 50px;&#34;&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Emotion-Aware Music Information Retrieval Based on Physiological Signals and User Profile</title>
+      <link>http://localhost:1313/talk/ismir17/</link>
+      <pubDate>Fri, 27 Oct 2017 12:40:00 +0000</pubDate>
+      <guid>http://localhost:1313/talk/ismir17/</guid>
       <description>&lt;iframe src=&#34;poster.pdf&#34; width=&#34;100%&#34; height=&#34;1000&#34;, style=&#34;border:1px solid black; margin-bottom: 50px;&#34;&gt;
 </description>
     </item>

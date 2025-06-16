@@ -22,8 +22,8 @@ links:
 #   url: media/ISMIR18/115_Paper.pdf
 # - name: ISMIR'18 Poster
 #   url: media/ISMIR18/poster.pdf
-- name: PI- Xinyue Jiao
-  url: 
+#- name: 
+#  url: 
 # url_pdf: ""
 # url_slides: ""
 # url_video: ""

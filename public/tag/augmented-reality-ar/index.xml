@@ -2,21 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Augmented Reality (AR) | Xinyue Jiao</title>
-    <link>http://localhost:56790/tag/augmented-reality-ar/</link>
-      <atom:link href="http://localhost:56790/tag/augmented-reality-ar/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tag/augmented-reality-ar/</link>
+      <atom:link href="http://localhost:1313/tag/augmented-reality-ar/index.xml" rel="self" type="application/rss+xml" />
     <description>Augmented Reality (AR)</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:56790/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>http://localhost:1313/media/icon_hu_a7e10fd8c8633d1e.png</url>
       <title>Augmented Reality (AR)</title>
-      <link>http://localhost:56790/tag/augmented-reality-ar/</link>
+      <link>http://localhost:1313/tag/augmented-reality-ar/</link>
     </image>
     
     <item>
+      <title>STEM-XR for Equity</title>
+      <link>http://localhost:1313/project/stem_xr/</link>
+      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/stem_xr/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Aug. 2020 - Present (Principal Investigator: Dr. Xiao Hu)
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;p&gt;🌟 Project Overview&lt;/p&gt;
+&lt;p&gt;The STEM-XR4E project aims to support teachers in delivering low-cost, hands-on physics learning experiences by leveraging everyday physical materials enhanced with emerging technologies. Integrating exploratory inquiry, extended/mixed reality (XR), multimodal sensing, and generative AI, the project enables students to engage in authentic scientific practices. By using accessible tools and real-world setups, students can visualize and experiment with core physics concepts—such as force, motion, and angles—in an interactive and immersive way, fostering deeper conceptual understanding and active learning.&lt;/p&gt;
+&lt;p&gt;🛠️ Key Responsibilities
+•	Develop design ideas for several different common STEM topics in High Schools (from Common Core Standards) that would benefit from an XR experience
+•	Work with teachers to refine ideas
+•	Create design ideas for AI-based XR simulations to address some of these topics&lt;/p&gt;
+&lt;p&gt;🚀 Research Impact&lt;/p&gt;
+&lt;p&gt;STEM-XR4E advances the field of technology-enhanced STEM education by demonstrating how low-cost, embodied, and immersive experiences can democratize access to high-quality STEM learning. It bridges classroom practice and cutting-edge tools—such as XR, generative AI, and multimodal sensing—to support inquiry-based, data-informed teaching&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Collaborative Inquiry in AR Learning Environments</title>
-      <link>http://localhost:56790/project/collaboration-in-arle/</link>
+      <link>http://localhost:1313/project/collaboration-in-arle/</link>
       <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:56790/project/collaboration-in-arle/</guid>
+      <guid>http://localhost:1313/project/collaboration-in-arle/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -42,9 +66,9 @@
     
     <item>
       <title>Using AR to Enhance Students’ Representational Fluency</title>
-      <link>http://localhost:56790/project/ar-math/</link>
+      <link>http://localhost:1313/project/ar-math/</link>
       <pubDate>Wed, 15 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:56790/project/ar-math/</guid>
+      <guid>http://localhost:1313/project/ar-math/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -69,9 +93,9 @@
     
     <item>
       <title>⛰️Exploring the contour lines</title>
-      <link>http://localhost:56790/myapps/contour/</link>
+      <link>http://localhost:1313/portfolio/contour/</link>
       <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:56790/myapps/contour/</guid>
+      <guid>http://localhost:1313/portfolio/contour/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -80,17 +104,14 @@
   &lt;/div&gt;
 &lt;/div&gt;
  --&gt;
-&lt;p&gt;🌟 AR app Overview&lt;/p&gt;
-&lt;p&gt;Change the speed of the bees and record the time and distance the bees fly in real time.
-Adopted by one elementary schools in China&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>🌍 Our Earth</title>
-      <link>http://localhost:56790/myapps/ourearth/</link>
+      <link>http://localhost:1313/portfolio/ourearth/</link>
       <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:56790/myapps/ourearth/</guid>
+      <guid>http://localhost:1313/portfolio/ourearth/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -99,17 +120,14 @@ Adopted by one elementary schools in China&lt;/p&gt;
   &lt;/div&gt;
 &lt;/div&gt;
  --&gt;
-&lt;p&gt;🌟 AR app Overview&lt;/p&gt;
-&lt;p&gt;Change the speed of the bees and record the time and distance the bees fly in real time.
-Adopted by one elementary schools in China&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>🌞 Mystery of solar altitude</title>
-      <link>http://localhost:56790/myapps/solaraltitude/</link>
+      <link>http://localhost:1313/portfolio/solaraltitude/</link>
       <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:56790/myapps/solaraltitude/</guid>
+      <guid>http://localhost:1313/portfolio/solaraltitude/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -118,17 +136,14 @@ Adopted by one elementary schools in China&lt;/p&gt;
   &lt;/div&gt;
 &lt;/div&gt;
  --&gt;
-&lt;p&gt;🌟 AR app Overview&lt;/p&gt;
-&lt;p&gt;Change the speed of the bees and record the time and distance the bees fly in real time.
-Adopted by one elementary schools in China&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>🏃Encounter and chase problems</title>
-      <link>http://localhost:56790/myapps/beijing2/</link>
+      <link>http://localhost:1313/portfolio/beijing2/</link>
       <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:56790/myapps/beijing2/</guid>
+      <guid>http://localhost:1313/portfolio/beijing2/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -137,17 +152,14 @@ Adopted by one elementary schools in China&lt;/p&gt;
   &lt;/div&gt;
 &lt;/div&gt;
  --&gt;
-&lt;p&gt;🌟 AR app Overview&lt;/p&gt;
-&lt;p&gt;Change the speed of the bees and record the time and distance the bees fly in real time.
-Adopted by one elementary schools in China&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>🐝Linear Functions</title>
-      <link>http://localhost:56790/myapps/run/</link>
+      <link>http://localhost:1313/portfolio/run/</link>
       <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:56790/myapps/run/</guid>
+      <guid>http://localhost:1313/portfolio/run/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -156,17 +168,14 @@ Adopted by one elementary schools in China&lt;/p&gt;
   &lt;/div&gt;
 &lt;/div&gt;
  --&gt;
-&lt;p&gt;🌟 AR app Overview&lt;/p&gt;
-&lt;p&gt;Change the speed of the bees and record the time and distance the bees fly in real time.
-Adopted by one elementary schools in China&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>🐝Segmentation Functions</title>
-      <link>http://localhost:56790/myapps/bee/</link>
+      <link>http://localhost:1313/portfolio/bee/</link>
       <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:56790/myapps/bee/</guid>
+      <guid>http://localhost:1313/portfolio/bee/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -175,17 +184,14 @@ Adopted by one elementary schools in China&lt;/p&gt;
   &lt;/div&gt;
 &lt;/div&gt;
  --&gt;
-&lt;p&gt;🌟 AR app Overview&lt;/p&gt;
-&lt;p&gt;Change the speed of the bees and record the time and distance the bees fly in real time.
-Adopted by one elementary schools in China&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>📝Linear Functions</title>
-      <link>http://localhost:56790/myapps/beijing1/</link>
+      <link>http://localhost:1313/portfolio/beijing1/</link>
       <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:56790/myapps/beijing1/</guid>
+      <guid>http://localhost:1313/portfolio/beijing1/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -194,17 +200,14 @@ Adopted by one elementary schools in China&lt;/p&gt;
   &lt;/div&gt;
 &lt;/div&gt;
  --&gt;
-&lt;p&gt;🌟 AR app Overview&lt;/p&gt;
-&lt;p&gt;Change the speed of the bees and record the time and distance the bees fly in real time.
-Adopted by one elementary schools in China&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>🚥The three primary colors of light&lt;</title>
-      <link>http://localhost:56790/myapps/light1/</link>
+      <title>🚥The three primary colors of light</title>
+      <link>http://localhost:1313/portfolio/light1/</link>
       <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:56790/myapps/light1/</guid>
+      <guid>http://localhost:1313/portfolio/light1/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -213,17 +216,14 @@ Adopted by one elementary schools in China&lt;/p&gt;
   &lt;/div&gt;
 &lt;/div&gt;
  --&gt;
-&lt;p&gt;🌟 AR app Overview&lt;/p&gt;
-&lt;p&gt;Change the speed of the bees and record the time and distance the bees fly in real time.
-Adopted by one elementary schools in China&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Encounter and chase problems</title>
-      <link>http://localhost:56790/myapps/mathzhuiji/</link>
+      <link>http://localhost:1313/portfolio/mathzhuiji/</link>
       <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:56790/myapps/mathzhuiji/</guid>
+      <guid>http://localhost:1313/portfolio/mathzhuiji/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -232,17 +232,14 @@ Adopted by one elementary schools in China&lt;/p&gt;
   &lt;/div&gt;
 &lt;/div&gt;
  --&gt;
-&lt;p&gt;🌟 AR app Overview&lt;/p&gt;
-&lt;p&gt;Change the speed of the bees and record the time and distance the bees fly in real time.
-Adopted by one elementary schools in China&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Intelligent Augmented Reality Learning Environment</title>
-      <link>http://localhost:56790/project/intelligent-arle/</link>
+      <link>http://localhost:1313/project/intelligent-arle/</link>
       <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:56790/project/intelligent-arle/</guid>
+      <guid>http://localhost:1313/project/intelligent-arle/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -264,9 +261,9 @@ Adopted by one elementary schools in China&lt;/p&gt;
     
     <item>
       <title>🕎 Dispersion of Light</title>
-      <link>http://localhost:56790/myapps/light2/</link>
+      <link>http://localhost:1313/portfolio/light2/</link>
       <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:56790/myapps/light2/</guid>
+      <guid>http://localhost:1313/portfolio/light2/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -275,17 +272,14 @@ Adopted by one elementary schools in China&lt;/p&gt;
   &lt;/div&gt;
 &lt;/div&gt;
  --&gt;
-&lt;p&gt;🌟 AR app Overview&lt;/p&gt;
-&lt;p&gt;Change the speed of the bees and record the time and distance the bees fly in real time.
-Adopted by one elementary schools in China&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>🧪 Diverse electrolytes</title>
-      <link>http://localhost:56790/myapps/dianjiezhi/</link>
+      <link>http://localhost:1313/portfolio/dianjiezhi/</link>
       <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:56790/myapps/dianjiezhi/</guid>
+      <guid>http://localhost:1313/portfolio/dianjiezhi/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -294,9 +288,6 @@ Adopted by one elementary schools in China&lt;/p&gt;
   &lt;/div&gt;
 &lt;/div&gt;
  --&gt;
-&lt;p&gt;🌟 AR app Overview&lt;/p&gt;
-&lt;p&gt;Change the speed of the bees and record the time and distance the bees fly in real time.
-Adopted by one elementary schools in China&lt;/p&gt;
 </description>
     </item>
     
